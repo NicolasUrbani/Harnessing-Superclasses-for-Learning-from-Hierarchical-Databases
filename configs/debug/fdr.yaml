@@ -1,0 +1,12 @@
+# @package _global_
+
+# runs 1 train, 1 validation and 1 test step
+
+defaults:
+  - default.yaml
+
+trainer:
+  module:
+    max_epochs: 3
+    limit_train_batches: 0.01
+    limit_val_batches: 0.05

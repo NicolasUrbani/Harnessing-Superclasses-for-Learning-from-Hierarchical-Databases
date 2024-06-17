@@ -1,0 +1,15 @@
+torch
+protobuf
+mlflow
+torchvision
+torchmetrics
+lightning
+click
+ipdb
+omegaconf
+h5py
+faiss-gpu
+hydra-core
+anytree
+bigtree
+datasets

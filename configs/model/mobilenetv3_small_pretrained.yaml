@@ -1,0 +1,12 @@
+defaults:
+  - base
+
+target:
+  _target_: src.models.mobilenetv3_small.pretrained_model
+  out_features: "${dataset.datasets.n_classes}"
+
+out_features: ${dataset.datasets.n_classes}
+
+description: MobileNetV3 Small pré-entrainé avec ${.target.out_features} classes en sortie
+hyperparameters:
+  model: mobilenetv3_small_pretrained

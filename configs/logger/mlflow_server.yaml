@@ -1,0 +1,8 @@
+target:
+  _target_: lightning.pytorch.loggers.MLFlowLogger
+  experiment_name: ${experiment_name}
+  tracking_uri: ${..tracking_uri}
+  artifact_location: ${paths.artifact_location}
+  log_model: true
+
+tracking_uri: "http://127.0.0.1:5000"

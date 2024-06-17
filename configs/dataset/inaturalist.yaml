@@ -1,0 +1,56 @@
+_target_: src.datamodules.inaturalist.INaturalistDataModule
+
+defaults:
+  - default
+  - default_hierarchy
+
+
+datasets:
+  name: iNaturalist
+  path:  ${paths.inaturalist_dir}
+  n_classes: 1010
+  hierarchy_filename: inaturalist_tree.txt
+  synset_filename: none.txt
+
+paths:
+  hierarchy_dir: data/hierarchy/
+
+transforms:
+  train:
+    _target_: torchvision.transforms.Compose
+    _args_:
+      - - _target_: torchvision.transforms.ToTensor
+        - ${attr:"src.datamodules.utils.ToRGB"}
+        - _target_: torchvision.transforms.Normalize
+          _args_:
+            - [0.4539927804904251, 0.4738189681248442, 0.36681702697495033]
+            - [0.23446386081393752, 0.2271436029904806, 0.24672931899964218]
+        - _target_: torchvision.transforms.Resize
+          size: [224, 224]
+
+  valid:
+    _target_: torchvision.transforms.Compose
+    _args_:
+      - - _target_: torchvision.transforms.ToTensor
+        - ${attr:"src.datamodules.utils.ToRGB"}
+        - _target_: torchvision.transforms.Normalize
+          _args_:
+            - [0.4539927804904251, 0.4738189681248442, 0.36681702697495033]
+            - [0.23446386081393752, 0.2271436029904806, 0.24672931899964218]
+        - _target_: torchvision.transforms.Resize
+          size: [224, 224]
+
+loaders:
+  train:
+    batch_size: 128
+    shuffle: True
+    num_workers: 16
+    drop_last: True
+    pin_memory: False
+
+  valid:
+    batch_size: 128
+    shuffle: False
+    num_workers: 16
+    drop_last: False
+    pin_memory: False

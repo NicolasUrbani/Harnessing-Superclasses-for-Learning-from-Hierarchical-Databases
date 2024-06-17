@@ -1,0 +1,9 @@
+working_dir: .
+pip: requirements_cassio.txt
+excludes:
+  - .python-version
+  - mlruns
+  - .mypy_cache
+  - .pytest_cache
+  - .venv
+  - outputs

@@ -1,0 +1,25 @@
+defaults:
+  - tinyimagenet
+  - _self_
+  - optional blahfoo@_here_: ../tinyimagenet_trivialaugment_${machine_name:} # Per-machine override of configuration below
+
+
+datasets:
+  name: TinyImagenet_trivalaugment
+  hyperparameters:
+    dataset: ${..name}
+
+transforms:
+  train:
+    _target_: torchvision.transforms.v2.Compose
+    _args_:
+      - - _target_: torchvision.transforms.v2.ToImage
+        - _target_: torchvision.transforms.v2.TrivialAugmentWide
+        - ${attr:"src.datamodules.utils.ToRGB"} # Some images are grayscale
+        - _target_: torchvision.transforms.v2.ToDtype
+          _args_:
+            - ${attr:"torch.float32"}
+          scale: True
+        - _target_: torchvision.transforms.v2.Normalize
+          mean: [0.48023462867919975, 0.44807240576811214, 0.3975059588114215]
+          std: [0.27643921134213034, 0.2688699788209063, 0.2815982659992735]

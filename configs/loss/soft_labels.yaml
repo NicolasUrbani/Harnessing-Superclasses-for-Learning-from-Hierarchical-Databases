@@ -1,0 +1,12 @@
+target:
+  _target_: src.loss.get_soft_labels_loss
+  hierarchy: ${dataset.datasets.hierarchy}
+  beta: ${..beta}
+
+description: Soft Labels
+
+beta: 10
+
+hyperparameters:
+  loss: soft_labels[${..beta}]
+  beta: ${..beta} 

@@ -1,0 +1,6 @@
+defaults:
+  - paths: default
+  - logger: mlflow_server
+  - _self_
+
+entrypoint: ???

@@ -1,0 +1,50 @@
+# @package _global_
+
+defaults:
+  - model: resnet50
+  - loss: cross_entropy
+  - dataset: default
+  - optimizer: adam
+  - lr_scheduler: none
+  - params
+  - trainer: "${machine_name:}"
+  - paths: default
+  - logger: mlflow_server
+  - optional machine: "${oc.env:USER}@${machine_name:}"    # Per-machine override
+  - debug: null
+  - _self_
+
+freeze_layers: null
+hyperparameters:
+  freeze_layers: ${..freeze_layers}
+
+experiment_name: model
+
+description: |
+  ## **Entrainement**
+
+  ${trainer.description}
+
+  ## **Données**
+
+  Jeu de données ${dataset.datasets.name}
+
+  ## **Modèle**
+
+  ${model.description}
+
+  ## **Fonction de perte**
+
+  ${loss.description}
+
+  ## **Optimiseur**
+
+  ${optimizer.description}
+
+  ## ***Learning rate scheduler***
+
+  ${lr_scheduler.description}
+
+  ## **Paramètres**
+
+  ${params_description}

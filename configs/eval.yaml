@@ -1,0 +1,21 @@
+# @package _global_
+
+defaults:
+  - paths: default
+  - logger: mlflow_server
+  - _self_
+
+experiment_name: eval
+model_runs: ???
+
+hyperparameters:
+  model_runs: ${..model_runs}
+
+description: |
+  ## **Modèles utilisés**
+
+  Provenance: {model_runs}
+
+  ## **Description**
+
+  {description}

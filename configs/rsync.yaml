@@ -1,0 +1,6 @@
+defaults:
+  - remote: serv1
+  - paths: default
+  - _self_
+
+rsync_command: /usr/bin/rsync --archive --copy-links --verbose ${remote.username}@${remote.hostname}:${paths.remote_artifact_location}/ ${paths.artifact_location}

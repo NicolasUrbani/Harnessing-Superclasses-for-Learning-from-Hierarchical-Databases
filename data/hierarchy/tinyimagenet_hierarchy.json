@@ -1,0 +1,3226 @@
+{
+  "name": "physical_entity",
+  "pos_offset": "n00001930",
+  "synset": "physical_entity.n.01",
+  "children": [
+    {
+      "name": "object",
+      "pos_offset": "n00002684",
+      "synset": "object.n.01",
+      "children": [
+        {
+          "name": "whole",
+          "pos_offset": "n00003553",
+          "synset": "whole.n.02",
+          "children": [
+            {
+              "name": "living_thing",
+              "pos_offset": "n00004258",
+              "synset": "living_thing.n.01",
+              "children": [
+                {
+                  "name": "organism",
+                  "pos_offset": "n00004475",
+                  "synset": "organism.n.01",
+                  "children": [
+                    {
+                      "name": "animal",
+                      "pos_offset": "n00015388",
+                      "synset": "animal.n.01",
+                      "children": [
+                        {
+                          "name": "chordate",
+                          "pos_offset": "n01466257",
+                          "synset": "chordate.n.01",
+                          "children": [
+                            {
+                              "name": "vertebrate",
+                              "pos_offset": "n01471682",
+                              "synset": "vertebrate.n.01",
+                              "children": [
+                                {
+                                  "name": "mammal",
+                                  "pos_offset": "n01861778",
+                                  "synset": "mammal.n.01",
+                                  "children": [
+                                    {
+                                      "name": "placental",
+                                      "pos_offset": "n01886756",
+                                      "synset": "placental.n.01",
+                                      "children": [
+                                        {
+                                          "name": "carnivore",
+                                          "pos_offset": "n02075296",
+                                          "synset": "carnivore.n.01",
+                                          "children": [
+                                            {
+                                              "name": "feline",
+                                              "pos_offset": "n02120997",
+                                              "synset": "feline.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "cat",
+                                                  "pos_offset": "n02121620",
+                                                  "synset": "cat.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "domestic_cat",
+                                                      "pos_offset": "n02121808",
+                                                      "synset": "domestic_cat.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "Egyptian_cat",
+                                                          "pos_offset": "n02124075",
+                                                          "synset": "egyptian_cat.n.01"
+                                                        },
+                                                        {
+                                                          "name": "tabby",
+                                                          "pos_offset": "n02123045",
+                                                          "synset": "tabby.n.01"
+                                                        },
+                                                        {
+                                                          "name": "Persian_cat",
+                                                          "pos_offset": "n02123394",
+                                                          "synset": "persian_cat.n.01"
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "wildcat",
+                                                      "pos_offset": "n02124623",
+                                                      "synset": "wildcat.n.03",
+                                                      "children": [
+                                                        {
+                                                          "name": "cougar",
+                                                          "pos_offset": "n02125311",
+                                                          "synset": "cougar.n.01"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "big_cat",
+                                                  "pos_offset": "n02127808",
+                                                  "synset": "big_cat.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "lion",
+                                                      "pos_offset": "n02129165",
+                                                      "synset": "lion.n.01"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "canine",
+                                              "pos_offset": "n02083346",
+                                              "synset": "canine.n.02",
+                                              "children": [
+                                                {
+                                                  "name": "dog",
+                                                  "pos_offset": "n02084071",
+                                                  "synset": "dog.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "working_dog",
+                                                      "pos_offset": "n02103406",
+                                                      "synset": "working_dog.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "shepherd_dog",
+                                                          "pos_offset": "n02104523",
+                                                          "synset": "shepherd_dog.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "German_shepherd",
+                                                              "pos_offset": "n02106662",
+                                                              "synset": "german_shepherd.n.01"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "hunting_dog",
+                                                      "pos_offset": "n02087122",
+                                                      "synset": "hunting_dog.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "sporting_dog",
+                                                          "pos_offset": "n02098550",
+                                                          "synset": "sporting_dog.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "retriever",
+                                                              "pos_offset": "n02099029",
+                                                              "synset": "retriever.n.01",
+                                                              "children": [
+                                                                {
+                                                                  "name": "Labrador_retriever",
+                                                                  "pos_offset": "n02099712",
+                                                                  "synset": "labrador_retriever.n.01"
+                                                                },
+                                                                {
+                                                                  "name": "golden_retriever",
+                                                                  "pos_offset": "n02099601",
+                                                                  "synset": "golden_retriever.n.01"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "terrier",
+                                                          "pos_offset": "n02092468",
+                                                          "synset": "terrier.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "Yorkshire_terrier",
+                                                              "pos_offset": "n02094433",
+                                                              "synset": "yorkshire_terrier.n.01"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "toy_dog",
+                                                      "pos_offset": "n02085374",
+                                                      "synset": "toy_dog.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "Chihuahua",
+                                                          "pos_offset": "n02085620",
+                                                          "synset": "chihuahua.n.03"
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "poodle",
+                                                      "pos_offset": "n02113335",
+                                                      "synset": "poodle.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "standard_poodle",
+                                                          "pos_offset": "n02113799",
+                                                          "synset": "standard_poodle.n.01"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "bear",
+                                              "pos_offset": "n02131653",
+                                              "synset": "bear.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "brown_bear",
+                                                  "pos_offset": "n02132136",
+                                                  "synset": "brown_bear.n.01"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "procyonid",
+                                              "pos_offset": "n02507649",
+                                              "synset": "procyonid.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "lesser_panda",
+                                                  "pos_offset": "n02509815",
+                                                  "synset": "lesser_panda.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "rodent",
+                                          "pos_offset": "n02329401",
+                                          "synset": "rodent.n.01",
+                                          "children": [
+                                            {
+                                              "name": "cavy",
+                                              "pos_offset": "n02364520",
+                                              "synset": "cavy.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "guinea_pig",
+                                                  "pos_offset": "n02364673",
+                                                  "synset": "guinea_pig.n.02"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "ungulate",
+                                          "pos_offset": "n02370806",
+                                          "synset": "ungulate.n.01",
+                                          "children": [
+                                            {
+                                              "name": "even-toed_ungulate",
+                                              "pos_offset": "n02394477",
+                                              "synset": "even-toed_ungulate.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "camel",
+                                                  "pos_offset": "n02437136",
+                                                  "synset": "camel.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "Arabian_camel",
+                                                      "pos_offset": "n02437312",
+                                                      "synset": "arabian_camel.n.01"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "ruminant",
+                                                  "pos_offset": "n02399000",
+                                                  "synset": "ruminant.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "bovid",
+                                                      "pos_offset": "n02401031",
+                                                      "synset": "bovid.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "antelope",
+                                                          "pos_offset": "n02419796",
+                                                          "synset": "antelope.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "gazelle",
+                                                              "pos_offset": "n02423022",
+                                                              "synset": "gazelle.n.01"
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "bovine",
+                                                          "pos_offset": "n02402010",
+                                                          "synset": "bovine.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "cattle",
+                                                              "pos_offset": "n02402425",
+                                                              "synset": "cattle.n.01",
+                                                              "children": [
+                                                                {
+                                                                  "name": "ox",
+                                                                  "pos_offset": "n02403003",
+                                                                  "synset": "ox.n.01"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "wild_sheep",
+                                                          "pos_offset": "n02414578",
+                                                          "synset": "wild_sheep.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "mountain_sheep",
+                                                              "pos_offset": "n02415435",
+                                                              "synset": "mountain_sheep.n.01",
+                                                              "children": [
+                                                                {
+                                                                  "name": "bighorn",
+                                                                  "pos_offset": "n02415577",
+                                                                  "synset": "bighorn.n.02"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "bison",
+                                                          "pos_offset": "n02410509",
+                                                          "synset": "bison.n.01"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "swine",
+                                                  "pos_offset": "n02395003",
+                                                  "synset": "swine.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "hog",
+                                                      "pos_offset": "n02395406",
+                                                      "synset": "hog.n.03"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "primate",
+                                          "pos_offset": "n02469914",
+                                          "synset": "primate.n.02",
+                                          "children": [
+                                            {
+                                              "name": "monkey",
+                                              "pos_offset": "n02484322",
+                                              "synset": "monkey.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "Old_World_monkey",
+                                                  "pos_offset": "n02484473",
+                                                  "synset": "old_world_monkey.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "baboon",
+                                                      "pos_offset": "n02486410",
+                                                      "synset": "baboon.n.01"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "ape",
+                                              "pos_offset": "n02470325",
+                                              "synset": "ape.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "anthropoid_ape",
+                                                  "pos_offset": "n02470899",
+                                                  "synset": "anthropoid_ape.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "great_ape",
+                                                      "pos_offset": "n02480153",
+                                                      "synset": "great_ape.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "chimpanzee",
+                                                          "pos_offset": "n02481823",
+                                                          "synset": "chimpanzee.n.01"
+                                                        },
+                                                        {
+                                                          "name": "orangutan",
+                                                          "pos_offset": "n02480495",
+                                                          "synset": "orangutan.n.01"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "aquatic_mammal",
+                                          "pos_offset": "n02062017",
+                                          "synset": "aquatic_mammal.n.01",
+                                          "children": [
+                                            {
+                                              "name": "sea_cow",
+                                              "pos_offset": "n02073250",
+                                              "synset": "sea_cow.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "dugong",
+                                                  "pos_offset": "n02074367",
+                                                  "synset": "dugong.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "pachyderm",
+                                          "pos_offset": "n02453108",
+                                          "synset": "pachyderm.n.01",
+                                          "children": [
+                                            {
+                                              "name": "elephant",
+                                              "pos_offset": "n02503517",
+                                              "synset": "elephant.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "African_elephant",
+                                                  "pos_offset": "n02504458",
+                                                  "synset": "african_elephant.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "metatherian",
+                                      "pos_offset": "n01873982",
+                                      "synset": "metatherian.n.01",
+                                      "children": [
+                                        {
+                                          "name": "marsupial",
+                                          "pos_offset": "n01874434",
+                                          "synset": "marsupial.n.01",
+                                          "children": [
+                                            {
+                                              "name": "phalanger",
+                                              "pos_offset": "n01881171",
+                                              "synset": "phalanger.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "koala",
+                                                  "pos_offset": "n01882714",
+                                                  "synset": "koala.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "amphibian",
+                                  "pos_offset": "n01627424",
+                                  "synset": "amphibian.n.03",
+                                  "children": [
+                                    {
+                                      "name": "frog",
+                                      "pos_offset": "n01639765",
+                                      "synset": "frog.n.01",
+                                      "children": [
+                                        {
+                                          "name": "true_frog",
+                                          "pos_offset": "n01640846",
+                                          "synset": "true_frog.n.01",
+                                          "children": [
+                                            {
+                                              "name": "bullfrog",
+                                              "pos_offset": "n01641577",
+                                              "synset": "bullfrog.n.01"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "tailed_frog",
+                                          "pos_offset": "n01644900",
+                                          "synset": "tailed_frog.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "salamander",
+                                      "pos_offset": "n01629276",
+                                      "synset": "salamander.n.01",
+                                      "children": [
+                                        {
+                                          "name": "European_fire_salamander",
+                                          "pos_offset": "n01629819",
+                                          "synset": "european_fire_salamander.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "aquatic_vertebrate",
+                                  "pos_offset": "n01473806",
+                                  "synset": "aquatic_vertebrate.n.01",
+                                  "children": [
+                                    {
+                                      "name": "fish",
+                                      "pos_offset": "n02512053",
+                                      "synset": "fish.n.01",
+                                      "children": [
+                                        {
+                                          "name": "bony_fish",
+                                          "pos_offset": "n02514825",
+                                          "synset": "bony_fish.n.01",
+                                          "children": [
+                                            {
+                                              "name": "teleost_fish",
+                                              "pos_offset": "n02528163",
+                                              "synset": "teleost_fish.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "soft-finned_fish",
+                                                  "pos_offset": "n01428580",
+                                                  "synset": "soft-finned_fish.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "cypriniform_fish",
+                                                      "pos_offset": "n01438208",
+                                                      "synset": "cypriniform_fish.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "cyprinid",
+                                                          "pos_offset": "n01439121",
+                                                          "synset": "cyprinid.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "goldfish",
+                                                              "pos_offset": "n01443537",
+                                                              "synset": "goldfish.n.01"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "bird",
+                                  "pos_offset": "n01503061",
+                                  "synset": "bird.n.01",
+                                  "children": [
+                                    {
+                                      "name": "aquatic_bird",
+                                      "pos_offset": "n01844917",
+                                      "synset": "aquatic_bird.n.01",
+                                      "children": [
+                                        {
+                                          "name": "seabird",
+                                          "pos_offset": "n02021795",
+                                          "synset": "seabird.n.01",
+                                          "children": [
+                                            {
+                                              "name": "pelagic_bird",
+                                              "pos_offset": "n02057731",
+                                              "synset": "pelagic_bird.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "albatross",
+                                                  "pos_offset": "n02058221",
+                                                  "synset": "albatross.n.02"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "sphenisciform_seabird",
+                                              "pos_offset": "n02055658",
+                                              "synset": "sphenisciform_seabird.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "penguin",
+                                                  "pos_offset": "n02055803",
+                                                  "synset": "penguin.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "king_penguin",
+                                                      "pos_offset": "n02056570",
+                                                      "synset": "king_penguin.n.01"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "waterfowl",
+                                          "pos_offset": "n01845132",
+                                          "synset": "waterfowl.n.01",
+                                          "children": [
+                                            {
+                                              "name": "anseriform_bird",
+                                              "pos_offset": "n01845477",
+                                              "synset": "anseriform_bird.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "goose",
+                                                  "pos_offset": "n01855672",
+                                                  "synset": "goose.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "wading_bird",
+                                          "pos_offset": "n02000954",
+                                          "synset": "wading_bird.n.01",
+                                          "children": [
+                                            {
+                                              "name": "stork",
+                                              "pos_offset": "n02002075",
+                                              "synset": "stork.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "black_stork",
+                                                  "pos_offset": "n02002724",
+                                                  "synset": "black_stork.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "reptile",
+                                  "pos_offset": "n01661091",
+                                  "synset": "reptile.n.01",
+                                  "children": [
+                                    {
+                                      "name": "diapsid",
+                                      "pos_offset": "n01661818",
+                                      "synset": "diapsid.n.01",
+                                      "children": [
+                                        {
+                                          "name": "crocodilian_reptile",
+                                          "pos_offset": "n01696633",
+                                          "synset": "crocodilian_reptile.n.01",
+                                          "children": [
+                                            {
+                                              "name": "alligator",
+                                              "pos_offset": "n01698434",
+                                              "synset": "alligator.n.02",
+                                              "children": [
+                                                {
+                                                  "name": "American_alligator",
+                                                  "pos_offset": "n01698640",
+                                                  "synset": "american_alligator.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "snake",
+                                          "pos_offset": "n01726692",
+                                          "synset": "snake.n.01",
+                                          "children": [
+                                            {
+                                              "name": "constrictor",
+                                              "pos_offset": "n01741562",
+                                              "synset": "constrictor.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "boa",
+                                                  "pos_offset": "n01741943",
+                                                  "synset": "boa.n.02",
+                                                  "children": [
+                                                    {
+                                                      "name": "boa_constrictor",
+                                                      "pos_offset": "n01742172",
+                                                      "synset": "boa_constrictor.n.01"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "invertebrate",
+                          "pos_offset": "n01905661",
+                          "synset": "invertebrate.n.01",
+                          "children": [
+                            {
+                              "name": "arthropod",
+                              "pos_offset": "n01767661",
+                              "synset": "arthropod.n.01",
+                              "children": [
+                                {
+                                  "name": "insect",
+                                  "pos_offset": "n02159955",
+                                  "synset": "insect.n.01",
+                                  "children": [
+                                    {
+                                      "name": "lepidopterous_insect",
+                                      "pos_offset": "n02274024",
+                                      "synset": "lepidopterous_insect.n.01",
+                                      "children": [
+                                        {
+                                          "name": "butterfly",
+                                          "pos_offset": "n02274259",
+                                          "synset": "butterfly.n.01",
+                                          "children": [
+                                            {
+                                              "name": "danaid",
+                                              "pos_offset": "n02279637",
+                                              "synset": "danaid.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "monarch",
+                                                  "pos_offset": "n02279972",
+                                                  "synset": "monarch.n.02"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "sulphur_butterfly",
+                                              "pos_offset": "n02281406",
+                                              "synset": "sulphur_butterfly.n.01"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "dictyopterous_insect",
+                                      "pos_offset": "n02232951",
+                                      "synset": "dictyopterous_insect.n.01",
+                                      "children": [
+                                        {
+                                          "name": "cockroach",
+                                          "pos_offset": "n02233338",
+                                          "synset": "cockroach.n.01"
+                                        },
+                                        {
+                                          "name": "mantis",
+                                          "pos_offset": "n02236044",
+                                          "synset": "mantis.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "beetle",
+                                      "pos_offset": "n02164464",
+                                      "synset": "beetle.n.01",
+                                      "children": [
+                                        {
+                                          "name": "ladybug",
+                                          "pos_offset": "n02165456",
+                                          "synset": "ladybug.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "hymenopterous_insect",
+                                      "pos_offset": "n02206270",
+                                      "synset": "hymenopterous_insect.n.01",
+                                      "children": [
+                                        {
+                                          "name": "bee",
+                                          "pos_offset": "n02206856",
+                                          "synset": "bee.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "odonate",
+                                      "pos_offset": "n02268148",
+                                      "synset": "odonate.n.01",
+                                      "children": [
+                                        {
+                                          "name": "dragonfly",
+                                          "pos_offset": "n02268443",
+                                          "synset": "dragonfly.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "dipterous_insect",
+                                      "pos_offset": "n02188699",
+                                      "synset": "dipterous_insect.n.01",
+                                      "children": [
+                                        {
+                                          "name": "fly",
+                                          "pos_offset": "n02190166",
+                                          "synset": "fly.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "orthopterous_insect",
+                                      "pos_offset": "n02226183",
+                                      "synset": "orthopterous_insect.n.01",
+                                      "children": [
+                                        {
+                                          "name": "grasshopper",
+                                          "pos_offset": "n02226429",
+                                          "synset": "grasshopper.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "phasmid",
+                                      "pos_offset": "n02231052",
+                                      "synset": "phasmid.n.01",
+                                      "children": [
+                                        {
+                                          "name": "walking_stick",
+                                          "pos_offset": "n02231487",
+                                          "synset": "walking_stick.n.02"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "arachnid",
+                                  "pos_offset": "n01769347",
+                                  "synset": "arachnid.n.01",
+                                  "children": [
+                                    {
+                                      "name": "spider",
+                                      "pos_offset": "n01772222",
+                                      "synset": "spider.n.01",
+                                      "children": [
+                                        {
+                                          "name": "tarantula",
+                                          "pos_offset": "n01774750",
+                                          "synset": "tarantula.n.02"
+                                        },
+                                        {
+                                          "name": "black_widow",
+                                          "pos_offset": "n01774384",
+                                          "synset": "black_widow.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "scorpion",
+                                      "pos_offset": "n01770393",
+                                      "synset": "scorpion.n.03"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "crustacean",
+                                  "pos_offset": "n01974773",
+                                  "synset": "crustacean.n.01",
+                                  "children": [
+                                    {
+                                      "name": "decapod_crustacean",
+                                      "pos_offset": "n01976146",
+                                      "synset": "decapod_crustacean.n.01",
+                                      "children": [
+                                        {
+                                          "name": "lobster",
+                                          "pos_offset": "n01982650",
+                                          "synset": "lobster.n.02",
+                                          "children": [
+                                            {
+                                              "name": "spiny_lobster",
+                                              "pos_offset": "n01984695",
+                                              "synset": "spiny_lobster.n.02"
+                                            },
+                                            {
+                                              "name": "true_lobster",
+                                              "pos_offset": "n01983048",
+                                              "synset": "true_lobster.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "American_lobster",
+                                                  "pos_offset": "n01983481",
+                                                  "synset": "american_lobster.n.02"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "centipede",
+                                  "pos_offset": "n01784675",
+                                  "synset": "centipede.n.01"
+                                },
+                                {
+                                  "name": "trilobite",
+                                  "pos_offset": "n01768244",
+                                  "synset": "trilobite.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "mollusk",
+                              "pos_offset": "n01940736",
+                              "synset": "mollusk.n.01",
+                              "children": [
+                                {
+                                  "name": "gastropod",
+                                  "pos_offset": "n01942177",
+                                  "synset": "gastropod.n.01",
+                                  "children": [
+                                    {
+                                      "name": "snail",
+                                      "pos_offset": "n01944390",
+                                      "synset": "snail.n.01"
+                                    },
+                                    {
+                                      "name": "slug",
+                                      "pos_offset": "n01945685",
+                                      "synset": "slug.n.07"
+                                    },
+                                    {
+                                      "name": "sea_slug",
+                                      "pos_offset": "n01950731",
+                                      "synset": "sea_slug.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "echinoderm",
+                              "pos_offset": "n02316707",
+                              "synset": "echinoderm.n.01",
+                              "children": [
+                                {
+                                  "name": "sea_cucumber",
+                                  "pos_offset": "n02321529",
+                                  "synset": "sea_cucumber.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "coelenterate",
+                              "pos_offset": "n01909422",
+                              "synset": "coelenterate.n.01",
+                              "children": [
+                                {
+                                  "name": "jellyfish",
+                                  "pos_offset": "n01910747",
+                                  "synset": "jellyfish.n.02"
+                                },
+                                {
+                                  "name": "anthozoan",
+                                  "pos_offset": "n01914163",
+                                  "synset": "anthozoan.n.01",
+                                  "children": [
+                                    {
+                                      "name": "coral",
+                                      "pos_offset": "n01915811",
+                                      "synset": "coral.n.04",
+                                      "children": [
+                                        {
+                                          "name": "stony_coral",
+                                          "pos_offset": "n01916925",
+                                          "synset": "stony_coral.n.01",
+                                          "children": [
+                                            {
+                                              "name": "brain_coral",
+                                              "pos_offset": "n01917289",
+                                              "synset": "brain_coral.n.01"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "artifact",
+              "pos_offset": "n00021939",
+              "synset": "artifact.n.01",
+              "children": [
+                {
+                  "name": "instrumentality",
+                  "pos_offset": "n03575240",
+                  "synset": "instrumentality.n.03",
+                  "children": [
+                    {
+                      "name": "device",
+                      "pos_offset": "n03183080",
+                      "synset": "device.n.01",
+                      "children": [
+                        {
+                          "name": "mechanism",
+                          "pos_offset": "n03738472",
+                          "synset": "mechanism.n.05",
+                          "children": [
+                            {
+                              "name": "mechanical_device",
+                              "pos_offset": "n03736970",
+                              "synset": "mechanical_device.n.01",
+                              "children": [
+                                {
+                                  "name": "winder",
+                                  "pos_offset": "n04586421",
+                                  "synset": "winder.n.03",
+                                  "children": [
+                                    {
+                                      "name": "reel",
+                                      "pos_offset": "n04067472",
+                                      "synset": "reel.n.03"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "machine",
+                                  "pos_offset": "n03700963",
+                                  "synset": "machine.n.04",
+                                  "children": [
+                                    {
+                                      "name": "wheel",
+                                      "pos_offset": "n04574999",
+                                      "synset": "wheel.n.01",
+                                      "children": [
+                                        {
+                                          "name": "potter's_wheel",
+                                          "pos_offset": "n03992509",
+                                          "synset": "potter's_wheel.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "instrument",
+                          "pos_offset": "n03574816",
+                          "synset": "instrument.n.01",
+                          "children": [
+                            {
+                              "name": "measuring_instrument",
+                              "pos_offset": "n03733925",
+                              "synset": "measuring_instrument.n.01",
+                              "children": [
+                                {
+                                  "name": "timepiece",
+                                  "pos_offset": "n04437953",
+                                  "synset": "timepiece.n.01",
+                                  "children": [
+                                    {
+                                      "name": "timer",
+                                      "pos_offset": "n04438304",
+                                      "synset": "timer.n.01",
+                                      "children": [
+                                        {
+                                          "name": "parking_meter",
+                                          "pos_offset": "n03891332",
+                                          "synset": "parking_meter.n.01"
+                                        },
+                                        {
+                                          "name": "stopwatch",
+                                          "pos_offset": "n04328186",
+                                          "synset": "stopwatch.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "sandglass",
+                                      "pos_offset": "n04134632",
+                                      "synset": "sandglass.n.01",
+                                      "children": [
+                                        {
+                                          "name": "hourglass",
+                                          "pos_offset": "n03544143",
+                                          "synset": "hourglass.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "weapon",
+                              "pos_offset": "n04565375",
+                              "synset": "weapon.n.01",
+                              "children": [
+                                {
+                                  "name": "projectile",
+                                  "pos_offset": "n04008634",
+                                  "synset": "projectile.n.01"
+                                },
+                                {
+                                  "name": "gun",
+                                  "pos_offset": "n03467984",
+                                  "synset": "gun.n.01",
+                                  "children": [
+                                    {
+                                      "name": "cannon",
+                                      "pos_offset": "n02950826",
+                                      "synset": "cannon.n.02"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "optical_instrument",
+                              "pos_offset": "n03852280",
+                              "synset": "optical_instrument.n.01",
+                              "children": [
+                                {
+                                  "name": "spectacles",
+                                  "pos_offset": "n04272054",
+                                  "synset": "spectacles.n.01",
+                                  "children": [
+                                    {
+                                      "name": "sunglasses",
+                                      "pos_offset": "n04356056",
+                                      "synset": "sunglasses.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "binoculars",
+                                  "pos_offset": "n02841315",
+                                  "synset": "binoculars.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "medical_instrument",
+                              "pos_offset": "n03739693",
+                              "synset": "medical_instrument.n.01",
+                              "children": [
+                                {
+                                  "name": "syringe",
+                                  "pos_offset": "n04376876",
+                                  "synset": "syringe.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "navigational_instrument",
+                              "pos_offset": "n03813176",
+                              "synset": "navigational_instrument.n.01",
+                              "children": [
+                                {
+                                  "name": "compass",
+                                  "pos_offset": "n03080497",
+                                  "synset": "compass.n.01",
+                                  "children": [
+                                    {
+                                      "name": "magnetic_compass",
+                                      "pos_offset": "n03706229",
+                                      "synset": "magnetic_compass.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "musical_instrument",
+                          "pos_offset": "n03800933",
+                          "synset": "musical_instrument.n.01",
+                          "children": [
+                            {
+                              "name": "keyboard_instrument",
+                              "pos_offset": "n03614532",
+                              "synset": "keyboard_instrument.n.01",
+                              "children": [
+                                {
+                                  "name": "organ",
+                                  "pos_offset": "n03854065",
+                                  "synset": "organ.n.05"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "wind_instrument",
+                              "pos_offset": "n04586932",
+                              "synset": "wind_instrument.n.01",
+                              "children": [
+                                {
+                                  "name": "woodwind",
+                                  "pos_offset": "n04598582",
+                                  "synset": "woodwind.n.01",
+                                  "children": [
+                                    {
+                                      "name": "beating-reed_instrument",
+                                      "pos_offset": "n02817799",
+                                      "synset": "beating-reed_instrument.n.01",
+                                      "children": [
+                                        {
+                                          "name": "double-reed_instrument",
+                                          "pos_offset": "n03228016",
+                                          "synset": "double-reed_instrument.n.01",
+                                          "children": [
+                                            {
+                                              "name": "oboe",
+                                              "pos_offset": "n03838899",
+                                              "synset": "oboe.n.01"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "support",
+                          "pos_offset": "n04359589",
+                          "synset": "support.n.10",
+                          "children": [
+                            {
+                              "name": "structural_member",
+                              "pos_offset": "n04341414",
+                              "synset": "structural_member.n.01",
+                              "children": [
+                                {
+                                  "name": "upright",
+                                  "pos_offset": "n04515129",
+                                  "synset": "upright.n.01",
+                                  "children": [
+                                    {
+                                      "name": "post",
+                                      "pos_offset": "n03988170",
+                                      "synset": "post.n.04",
+                                      "children": [
+                                        {
+                                          "name": "maypole",
+                                          "pos_offset": "n03733131",
+                                          "synset": "maypole.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "restraint",
+                          "pos_offset": "n04081844",
+                          "synset": "restraint.n.06",
+                          "children": [
+                            {
+                              "name": "fastener",
+                              "pos_offset": "n03323703",
+                              "synset": "fastener.n.02",
+                              "children": [
+                                {
+                                  "name": "nail",
+                                  "pos_offset": "n03804744",
+                                  "synset": "nail.n.02"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "heater",
+                          "pos_offset": "n03508101",
+                          "synset": "heater.n.01",
+                          "children": [
+                            {
+                              "name": "space_heater",
+                              "pos_offset": "n04265275",
+                              "synset": "space_heater.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "trap",
+                          "pos_offset": "n04474466",
+                          "synset": "trap.n.01",
+                          "children": [
+                            {
+                              "name": "web",
+                              "pos_offset": "n04568557",
+                              "synset": "web.n.02",
+                              "children": [
+                                {
+                                  "name": "spider_web",
+                                  "pos_offset": "n04275548",
+                                  "synset": "spider_web.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "remote_control",
+                          "pos_offset": "n04074963",
+                          "synset": "remote_control.n.01"
+                        },
+                        {
+                          "name": "source_of_illumination",
+                          "pos_offset": "n04263760",
+                          "synset": "source_of_illumination.n.01",
+                          "children": [
+                            {
+                              "name": "light",
+                              "pos_offset": "n03665366",
+                              "synset": "light.n.02",
+                              "children": [
+                                {
+                                  "name": "torch",
+                                  "pos_offset": "n04456115",
+                                  "synset": "torch.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "lamp",
+                              "pos_offset": "n03636248",
+                              "synset": "lamp.n.01",
+                              "children": [
+                                {
+                                  "name": "candle",
+                                  "pos_offset": "n02948072",
+                                  "synset": "candle.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "machine",
+                          "pos_offset": "n03699975",
+                          "synset": "machine.n.01",
+                          "children": [
+                            {
+                              "name": "calculator",
+                              "pos_offset": "n02938886",
+                              "synset": "calculator.n.02",
+                              "children": [
+                                {
+                                  "name": "abacus",
+                                  "pos_offset": "n02666196",
+                                  "synset": "abacus.n.02"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "cash_machine",
+                              "pos_offset": "n02977058",
+                              "synset": "cash_machine.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "strengthener",
+                          "pos_offset": "n04336034",
+                          "synset": "strengthener.n.01",
+                          "children": [
+                            {
+                              "name": "brace",
+                              "pos_offset": "n02887209",
+                              "synset": "brace.n.01",
+                              "children": [
+                                {
+                                  "name": "neck_brace",
+                                  "pos_offset": "n03814639",
+                                  "synset": "neck_brace.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "lifting_device",
+                          "pos_offset": "n03664675",
+                          "synset": "lifting_device.n.01",
+                          "children": [
+                            {
+                              "name": "crane",
+                              "pos_offset": "n03126707",
+                              "synset": "crane.n.04"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "breathing_device",
+                          "pos_offset": "n02895606",
+                          "synset": "breathing_device.n.01",
+                          "children": [
+                            {
+                              "name": "snorkel",
+                              "pos_offset": "n04251144",
+                              "synset": "snorkel.n.01"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "equipment",
+                      "pos_offset": "n03294048",
+                      "synset": "equipment.n.01",
+                      "children": [
+                        {
+                          "name": "game_equipment",
+                          "pos_offset": "n03414162",
+                          "synset": "game_equipment.n.01",
+                          "children": [
+                            {
+                              "name": "ball",
+                              "pos_offset": "n02778669",
+                              "synset": "ball.n.01",
+                              "children": [
+                                {
+                                  "name": "volleyball",
+                                  "pos_offset": "n04540053",
+                                  "synset": "volleyball.n.02"
+                                },
+                                {
+                                  "name": "basketball",
+                                  "pos_offset": "n02802426",
+                                  "synset": "basketball.n.02"
+                                },
+                                {
+                                  "name": "punching_bag",
+                                  "pos_offset": "n04023962",
+                                  "synset": "punching_bag.n.02"
+                                },
+                                {
+                                  "name": "rugby_ball",
+                                  "pos_offset": "n04118538",
+                                  "synset": "rugby_ball.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "electronic_equipment",
+                          "pos_offset": "n03278248",
+                          "synset": "electronic_equipment.n.01",
+                          "children": [
+                            {
+                              "name": "peripheral",
+                              "pos_offset": "n03916720",
+                              "synset": "peripheral.n.01",
+                              "children": [
+                                {
+                                  "name": "data_input_device",
+                                  "pos_offset": "n03163973",
+                                  "synset": "data_input_device.n.01",
+                                  "children": [
+                                    {
+                                      "name": "computer_keyboard",
+                                      "pos_offset": "n03085013",
+                                      "synset": "computer_keyboard.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "telephone",
+                              "pos_offset": "n04401088",
+                              "synset": "telephone.n.01",
+                              "children": [
+                                {
+                                  "name": "pay-phone",
+                                  "pos_offset": "n03902125",
+                                  "synset": "pay-phone.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "CD_player",
+                              "pos_offset": "n02988304",
+                              "synset": "cd_player.n.01"
+                            },
+                            {
+                              "name": "audio_system",
+                              "pos_offset": "n02757462",
+                              "synset": "audio_system.n.01",
+                              "children": [
+                                {
+                                  "name": "reproducer",
+                                  "pos_offset": "n04077430",
+                                  "synset": "reproducer.n.01",
+                                  "children": [
+                                    {
+                                      "name": "stereo",
+                                      "pos_offset": "n04315948",
+                                      "synset": "stereo.n.01",
+                                      "children": [
+                                        {
+                                          "name": "iPod",
+                                          "pos_offset": "n03584254",
+                                          "synset": "ipod.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "sports_equipment",
+                          "pos_offset": "n04285146",
+                          "synset": "sports_equipment.n.01",
+                          "children": [
+                            {
+                              "name": "weight",
+                              "pos_offset": "n04571292",
+                              "synset": "weight.n.02",
+                              "children": [
+                                {
+                                  "name": "dumbbell",
+                                  "pos_offset": "n03255030",
+                                  "synset": "dumbbell.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "furnishing",
+                      "pos_offset": "n03405265",
+                      "synset": "furnishing.n.02",
+                      "children": [
+                        {
+                          "name": "furniture",
+                          "pos_offset": "n03405725",
+                          "synset": "furniture.n.01",
+                          "children": [
+                            {
+                              "name": "seat",
+                              "pos_offset": "n04161981",
+                              "synset": "seat.n.03",
+                              "children": [
+                                {
+                                  "name": "chair",
+                                  "pos_offset": "n03001627",
+                                  "synset": "chair.n.01",
+                                  "children": [
+                                    {
+                                      "name": "rocking_chair",
+                                      "pos_offset": "n04099969",
+                                      "synset": "rocking_chair.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "table",
+                              "pos_offset": "n04379964",
+                              "synset": "table.n.03",
+                              "children": [
+                                {
+                                  "name": "dining_table",
+                                  "pos_offset": "n03201208",
+                                  "synset": "dining_table.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "table",
+                              "pos_offset": "n04379243",
+                              "synset": "table.n.02",
+                              "children": [
+                                {
+                                  "name": "desk",
+                                  "pos_offset": "n03179701",
+                                  "synset": "desk.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "implement",
+                      "pos_offset": "n03563967",
+                      "synset": "implement.n.01",
+                      "children": [
+                        {
+                          "name": "tool",
+                          "pos_offset": "n04451818",
+                          "synset": "tool.n.01",
+                          "children": [
+                            {
+                              "name": "hand_tool",
+                              "pos_offset": "n03489162",
+                              "synset": "hand_tool.n.01",
+                              "children": [
+                                {
+                                  "name": "plunger",
+                                  "pos_offset": "n03970156",
+                                  "synset": "plunger.n.03"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "garden_tool",
+                              "pos_offset": "n03418242",
+                              "synset": "garden_tool.n.01",
+                              "children": [
+                                {
+                                  "name": "lawn_mower",
+                                  "pos_offset": "n03649909",
+                                  "synset": "lawn_mower.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "utensil",
+                          "pos_offset": "n04516672",
+                          "synset": "utensil.n.01",
+                          "children": [
+                            {
+                              "name": "kitchen_utensil",
+                              "pos_offset": "n03621049",
+                              "synset": "kitchen_utensil.n.01",
+                              "children": [
+                                {
+                                  "name": "cooking_utensil",
+                                  "pos_offset": "n03101986",
+                                  "synset": "cooking_utensil.n.01",
+                                  "children": [
+                                    {
+                                      "name": "pot",
+                                      "pos_offset": "n03990474",
+                                      "synset": "pot.n.01",
+                                      "children": [
+                                        {
+                                          "name": "teapot",
+                                          "pos_offset": "n04398044",
+                                          "synset": "teapot.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "pan",
+                                      "pos_offset": "n03880531",
+                                      "synset": "pan.n.01",
+                                      "children": [
+                                        {
+                                          "name": "frying_pan",
+                                          "pos_offset": "n03400231",
+                                          "synset": "frying_pan.n.01"
+                                        },
+                                        {
+                                          "name": "wok",
+                                          "pos_offset": "n04596742",
+                                          "synset": "wok.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "cleaning_implement",
+                          "pos_offset": "n03039947",
+                          "synset": "cleaning_implement.n.01",
+                          "children": [
+                            {
+                              "name": "broom",
+                              "pos_offset": "n02906734",
+                              "synset": "broom.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "stick",
+                          "pos_offset": "n04317420",
+                          "synset": "stick.n.01",
+                          "children": [
+                            {
+                              "name": "staff",
+                              "pos_offset": "n04296261",
+                              "synset": "staff.n.02",
+                              "children": [
+                                {
+                                  "name": "flagpole",
+                                  "pos_offset": "n03355925",
+                                  "synset": "flagpole.n.02"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "drumstick",
+                              "pos_offset": "n03250847",
+                              "synset": "drumstick.n.02"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "rod",
+                          "pos_offset": "n04100174",
+                          "synset": "rod.n.01",
+                          "children": [
+                            {
+                              "name": "pole",
+                              "pos_offset": "n03976657",
+                              "synset": "pole.n.01"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "conveyance",
+                      "pos_offset": "n03100490",
+                      "synset": "conveyance.n.03",
+                      "children": [
+                        {
+                          "name": "public_transport",
+                          "pos_offset": "n04019101",
+                          "synset": "public_transport.n.01",
+                          "children": [
+                            {
+                              "name": "bus",
+                              "pos_offset": "n02924116",
+                              "synset": "bus.n.01",
+                              "children": [
+                                {
+                                  "name": "school_bus",
+                                  "pos_offset": "n04146614",
+                                  "synset": "school_bus.n.01"
+                                },
+                                {
+                                  "name": "trolleybus",
+                                  "pos_offset": "n04487081",
+                                  "synset": "trolleybus.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "train",
+                              "pos_offset": "n04468005",
+                              "synset": "train.n.01",
+                              "children": [
+                                {
+                                  "name": "passenger_train",
+                                  "pos_offset": "n03896233",
+                                  "synset": "passenger_train.n.01",
+                                  "children": [
+                                    {
+                                      "name": "bullet_train",
+                                      "pos_offset": "n02917067",
+                                      "synset": "bullet_train.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "vehicle",
+                          "pos_offset": "n04524313",
+                          "synset": "vehicle.n.01",
+                          "children": [
+                            {
+                              "name": "craft",
+                              "pos_offset": "n03125870",
+                              "synset": "craft.n.02",
+                              "children": [
+                                {
+                                  "name": "vessel",
+                                  "pos_offset": "n04530566",
+                                  "synset": "vessel.n.02",
+                                  "children": [
+                                    {
+                                      "name": "boat",
+                                      "pos_offset": "n02858304",
+                                      "synset": "boat.n.01",
+                                      "children": [
+                                        {
+                                          "name": "gondola",
+                                          "pos_offset": "n03447447",
+                                          "synset": "gondola.n.02"
+                                        },
+                                        {
+                                          "name": "sea_boat",
+                                          "pos_offset": "n04158807",
+                                          "synset": "sea_boat.n.01",
+                                          "children": [
+                                            {
+                                              "name": "lifeboat",
+                                              "pos_offset": "n03662601",
+                                              "synset": "lifeboat.n.01"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "container",
+                      "pos_offset": "n03094503",
+                      "synset": "container.n.01",
+                      "children": [
+                        {
+                          "name": "bag",
+                          "pos_offset": "n02773037",
+                          "synset": "bag.n.01",
+                          "children": [
+                            {
+                              "name": "backpack",
+                              "pos_offset": "n02769748",
+                              "synset": "backpack.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "vessel",
+                          "pos_offset": "n04531098",
+                          "synset": "vessel.n.03",
+                          "children": [
+                            {
+                              "name": "bottle",
+                              "pos_offset": "n02876657",
+                              "synset": "bottle.n.01",
+                              "children": [
+                                {
+                                  "name": "pop_bottle",
+                                  "pos_offset": "n03983396",
+                                  "synset": "pop_bottle.n.01"
+                                },
+                                {
+                                  "name": "beer_bottle",
+                                  "pos_offset": "n02823428",
+                                  "synset": "beer_bottle.n.01"
+                                },
+                                {
+                                  "name": "pill_bottle",
+                                  "pos_offset": "n03937543",
+                                  "synset": "pill_bottle.n.01"
+                                },
+                                {
+                                  "name": "jug",
+                                  "pos_offset": "n03603722",
+                                  "synset": "jug.n.01",
+                                  "children": [
+                                    {
+                                      "name": "water_jug",
+                                      "pos_offset": "n04560804",
+                                      "synset": "water_jug.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "barrel",
+                              "pos_offset": "n02795169",
+                              "synset": "barrel.n.02"
+                            },
+                            {
+                              "name": "tank",
+                              "pos_offset": "n04388743",
+                              "synset": "tank.n.02",
+                              "children": [
+                                {
+                                  "name": "reservoir",
+                                  "pos_offset": "n04078574",
+                                  "synset": "reservoir.n.03",
+                                  "children": [
+                                    {
+                                      "name": "water_tower",
+                                      "pos_offset": "n04562935",
+                                      "synset": "water_tower.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "bathtub",
+                              "pos_offset": "n02808440",
+                              "synset": "bathtub.n.01"
+                            },
+                            {
+                              "name": "jar",
+                              "pos_offset": "n03593526",
+                              "synset": "jar.n.01",
+                              "children": [
+                                {
+                                  "name": "beaker",
+                                  "pos_offset": "n02815834",
+                                  "synset": "beaker.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "bucket",
+                              "pos_offset": "n02909870",
+                              "synset": "bucket.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "wheeled_vehicle",
+                          "pos_offset": "n04576211",
+                          "synset": "wheeled_vehicle.n.01",
+                          "children": [
+                            {
+                              "name": "car",
+                              "pos_offset": "n02959942",
+                              "synset": "car.n.02",
+                              "children": [
+                                {
+                                  "name": "freight_car",
+                                  "pos_offset": "n03393912",
+                                  "synset": "freight_car.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "self-propelled_vehicle",
+                              "pos_offset": "n04170037",
+                              "synset": "self-propelled_vehicle.n.01",
+                              "children": [
+                                {
+                                  "name": "motor_vehicle",
+                                  "pos_offset": "n03791235",
+                                  "synset": "motor_vehicle.n.01",
+                                  "children": [
+                                    {
+                                      "name": "truck",
+                                      "pos_offset": "n04490091",
+                                      "synset": "truck.n.01",
+                                      "children": [
+                                        {
+                                          "name": "van",
+                                          "pos_offset": "n04520170",
+                                          "synset": "van.n.05",
+                                          "children": [
+                                            {
+                                              "name": "moving_van",
+                                              "pos_offset": "n03796401",
+                                              "synset": "moving_van.n.01"
+                                            },
+                                            {
+                                              "name": "police_van",
+                                              "pos_offset": "n03977966",
+                                              "synset": "police_van.n.01"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "car",
+                                      "pos_offset": "n02958343",
+                                      "synset": "car.n.01",
+                                      "children": [
+                                        {
+                                          "name": "limousine",
+                                          "pos_offset": "n03670208",
+                                          "synset": "limousine.n.01"
+                                        },
+                                        {
+                                          "name": "sports_car",
+                                          "pos_offset": "n04285008",
+                                          "synset": "sports_car.n.01"
+                                        },
+                                        {
+                                          "name": "beach_wagon",
+                                          "pos_offset": "n02814533",
+                                          "synset": "beach_wagon.n.01"
+                                        },
+                                        {
+                                          "name": "convertible",
+                                          "pos_offset": "n03100240",
+                                          "synset": "convertible.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "go-kart",
+                                      "pos_offset": "n03444034",
+                                      "synset": "go-kart.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "tractor",
+                                  "pos_offset": "n04465501",
+                                  "synset": "tractor.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "wagon",
+                              "pos_offset": "n04543158",
+                              "synset": "wagon.n.01",
+                              "children": [
+                                {
+                                  "name": "cart",
+                                  "pos_offset": "n02970849",
+                                  "synset": "cart.n.01",
+                                  "children": [
+                                    {
+                                      "name": "jinrikisha",
+                                      "pos_offset": "n03599486",
+                                      "synset": "jinrikisha.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "box",
+                          "pos_offset": "n02883344",
+                          "synset": "box.n.01",
+                          "children": [
+                            {
+                              "name": "chest",
+                              "pos_offset": "n03014705",
+                              "synset": "chest.n.02"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "spoon",
+                          "pos_offset": "n04284002",
+                          "synset": "spoon.n.01",
+                          "children": [
+                            {
+                              "name": "wooden_spoon",
+                              "pos_offset": "n04597913",
+                              "synset": "wooden_spoon.n.02"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "connection",
+                      "pos_offset": "n03091374",
+                      "synset": "connection.n.03",
+                      "children": [
+                        {
+                          "name": "attachment",
+                          "pos_offset": "n02755352",
+                          "synset": "attachment.n.04",
+                          "children": [
+                            {
+                              "name": "ligament",
+                              "pos_offset": "n03664943",
+                              "synset": "ligament.n.02",
+                              "children": [
+                                {
+                                  "name": "chain",
+                                  "pos_offset": "n02999410",
+                                  "synset": "chain.n.03"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "medium",
+                      "pos_offset": "n06254669",
+                      "synset": "medium.n.01",
+                      "children": [
+                        {
+                          "name": "print_media",
+                          "pos_offset": "n06263609",
+                          "synset": "print_media.n.01",
+                          "children": [
+                            {
+                              "name": "press",
+                              "pos_offset": "n06263369",
+                              "synset": "press.n.02",
+                              "children": [
+                                {
+                                  "name": "magazine",
+                                  "pos_offset": "n06595351",
+                                  "synset": "magazine.n.01",
+                                  "children": [
+                                    {
+                                      "name": "comic_book",
+                                      "pos_offset": "n06596364",
+                                      "synset": "comic_book.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "covering",
+                  "pos_offset": "n03122748",
+                  "synset": "covering.n.02",
+                  "children": [
+                    {
+                      "name": "protective_covering",
+                      "pos_offset": "n04014297",
+                      "synset": "protective_covering.n.01",
+                      "children": [
+                        {
+                          "name": "shelter",
+                          "pos_offset": "n04191943",
+                          "synset": "shelter.n.02",
+                          "children": [
+                            {
+                              "name": "canopy",
+                              "pos_offset": "n02951843",
+                              "synset": "canopy.n.03",
+                              "children": [
+                                {
+                                  "name": "umbrella",
+                                  "pos_offset": "n04507155",
+                                  "synset": "umbrella.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "birdhouse",
+                              "pos_offset": "n02843684",
+                              "synset": "birdhouse.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "shade",
+                          "pos_offset": "n04181718",
+                          "synset": "shade.n.03",
+                          "children": [
+                            {
+                              "name": "lampshade",
+                              "pos_offset": "n03637318",
+                              "synset": "lampshade.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "mask",
+                          "pos_offset": "n03725035",
+                          "synset": "mask.n.04",
+                          "children": [
+                            {
+                              "name": "gasmask",
+                              "pos_offset": "n03424325",
+                              "synset": "gasmask.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "roof",
+                          "pos_offset": "n04105068",
+                          "synset": "roof.n.01",
+                          "children": [
+                            {
+                              "name": "thatch",
+                              "pos_offset": "n04417672",
+                              "synset": "thatch.n.04"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "footwear",
+                      "pos_offset": "n03380867",
+                      "synset": "footwear.n.02",
+                      "children": [
+                        {
+                          "name": "shoe",
+                          "pos_offset": "n04199027",
+                          "synset": "shoe.n.01",
+                          "children": [
+                            {
+                              "name": "sandal",
+                              "pos_offset": "n04133789",
+                              "synset": "sandal.n.01"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "commodity",
+                  "pos_offset": "n03076708",
+                  "synset": "commodity.n.01",
+                  "children": [
+                    {
+                      "name": "consumer_goods",
+                      "pos_offset": "n03093574",
+                      "synset": "consumer_goods.n.01",
+                      "children": [
+                        {
+                          "name": "clothing",
+                          "pos_offset": "n03051540",
+                          "synset": "clothing.n.01",
+                          "children": [
+                            {
+                              "name": "garment",
+                              "pos_offset": "n03419014",
+                              "synset": "garment.n.01",
+                              "children": [
+                                {
+                                  "name": "sweater",
+                                  "pos_offset": "n04370048",
+                                  "synset": "sweater.n.01",
+                                  "children": [
+                                    {
+                                      "name": "cardigan",
+                                      "pos_offset": "n02963159",
+                                      "synset": "cardigan.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "overgarment",
+                                  "pos_offset": "n03863923",
+                                  "synset": "overgarment.n.01",
+                                  "children": [
+                                    {
+                                      "name": "coat",
+                                      "pos_offset": "n03057021",
+                                      "synset": "coat.n.01",
+                                      "children": [
+                                        {
+                                          "name": "fur_coat",
+                                          "pos_offset": "n03404251",
+                                          "synset": "fur_coat.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "cloak",
+                                      "pos_offset": "n03045337",
+                                      "synset": "cloak.n.02",
+                                      "children": [
+                                        {
+                                          "name": "poncho",
+                                          "pos_offset": "n03980874",
+                                          "synset": "poncho.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "skirt",
+                                  "pos_offset": "n04230808",
+                                  "synset": "skirt.n.02",
+                                  "children": [
+                                    {
+                                      "name": "miniskirt",
+                                      "pos_offset": "n03770439",
+                                      "synset": "miniskirt.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "swimsuit",
+                                  "pos_offset": "n04371563",
+                                  "synset": "swimsuit.n.01",
+                                  "children": [
+                                    {
+                                      "name": "swimming_trunks",
+                                      "pos_offset": "n04371430",
+                                      "synset": "swimming_trunks.n.01"
+                                    },
+                                    {
+                                      "name": "bikini",
+                                      "pos_offset": "n02837789",
+                                      "synset": "bikini.n.02"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "neckwear",
+                                  "pos_offset": "n03816005",
+                                  "synset": "neckwear.n.01",
+                                  "children": [
+                                    {
+                                      "name": "necktie",
+                                      "pos_offset": "n03815615",
+                                      "synset": "necktie.n.01",
+                                      "children": [
+                                        {
+                                          "name": "bow_tie",
+                                          "pos_offset": "n02883205",
+                                          "synset": "bow_tie.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "robe",
+                                  "pos_offset": "n04097866",
+                                  "synset": "robe.n.01",
+                                  "children": [
+                                    {
+                                      "name": "kimono",
+                                      "pos_offset": "n03617480",
+                                      "synset": "kimono.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "footwear",
+                              "pos_offset": "n03381126",
+                              "synset": "footwear.n.01",
+                              "children": [
+                                {
+                                  "name": "hosiery",
+                                  "pos_offset": "n03540267",
+                                  "synset": "hosiery.n.01",
+                                  "children": [
+                                    {
+                                      "name": "sock",
+                                      "pos_offset": "n04254777",
+                                      "synset": "sock.n.01"
+                                    },
+                                    {
+                                      "name": "stocking",
+                                      "pos_offset": "n04323819",
+                                      "synset": "stocking.n.01",
+                                      "children": [
+                                        {
+                                          "name": "Christmas_stocking",
+                                          "pos_offset": "n03026506",
+                                          "synset": "christmas_stocking.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "outerwear",
+                              "pos_offset": "n03859495",
+                              "synset": "outerwear.n.01",
+                              "children": [
+                                {
+                                  "name": "gown",
+                                  "pos_offset": "n03450516",
+                                  "synset": "gown.n.05",
+                                  "children": [
+                                    {
+                                      "name": "academic_gown",
+                                      "pos_offset": "n02669723",
+                                      "synset": "academic_gown.n.01"
+                                    },
+                                    {
+                                      "name": "vestment",
+                                      "pos_offset": "n04532106",
+                                      "synset": "vestment.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "headdress",
+                              "pos_offset": "n03502509",
+                              "synset": "headdress.n.01",
+                              "children": [
+                                {
+                                  "name": "hat",
+                                  "pos_offset": "n03497657",
+                                  "synset": "hat.n.01",
+                                  "children": [
+                                    {
+                                      "name": "sombrero",
+                                      "pos_offset": "n04259630",
+                                      "synset": "sombrero.n.02"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "protective_garment",
+                              "pos_offset": "n04015204",
+                              "synset": "protective_garment.n.01",
+                              "children": [
+                                {
+                                  "name": "apron",
+                                  "pos_offset": "n02730930",
+                                  "synset": "apron.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "uniform",
+                              "pos_offset": "n04509592",
+                              "synset": "uniform.n.01",
+                              "children": [
+                                {
+                                  "name": "military_uniform",
+                                  "pos_offset": "n03763968",
+                                  "synset": "military_uniform.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "durables",
+                          "pos_offset": "n03257877",
+                          "synset": "durables.n.01",
+                          "children": [
+                            {
+                              "name": "appliance",
+                              "pos_offset": "n02729837",
+                              "synset": "appliance.n.02",
+                              "children": [
+                                {
+                                  "name": "home_appliance",
+                                  "pos_offset": "n03528263",
+                                  "synset": "home_appliance.n.01",
+                                  "children": [
+                                    {
+                                      "name": "sewing_machine",
+                                      "pos_offset": "n04179913",
+                                      "synset": "sewing_machine.n.01"
+                                    },
+                                    {
+                                      "name": "white_goods",
+                                      "pos_offset": "n04580493",
+                                      "synset": "white_goods.n.01",
+                                      "children": [
+                                        {
+                                          "name": "refrigerator",
+                                          "pos_offset": "n04070727",
+                                          "synset": "refrigerator.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "structure",
+                  "pos_offset": "n04341686",
+                  "synset": "structure.n.01",
+                  "children": [
+                    {
+                      "name": "arch",
+                      "pos_offset": "n02733524",
+                      "synset": "arch.n.04",
+                      "children": [
+                        {
+                          "name": "triumphal_arch",
+                          "pos_offset": "n04486054",
+                          "synset": "triumphal_arch.n.01"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "obstruction",
+                      "pos_offset": "n03839993",
+                      "synset": "obstruction.n.01",
+                      "children": [
+                        {
+                          "name": "barrier",
+                          "pos_offset": "n02796623",
+                          "synset": "barrier.n.01",
+                          "children": [
+                            {
+                              "name": "dam",
+                              "pos_offset": "n03160309",
+                              "synset": "dam.n.01"
+                            },
+                            {
+                              "name": "movable_barrier",
+                              "pos_offset": "n03795580",
+                              "synset": "movable_barrier.n.01",
+                              "children": [
+                                {
+                                  "name": "gate",
+                                  "pos_offset": "n03427296",
+                                  "synset": "gate.n.01",
+                                  "children": [
+                                    {
+                                      "name": "turnstile",
+                                      "pos_offset": "n04501370",
+                                      "synset": "turnstile.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "fence",
+                              "pos_offset": "n03327234",
+                              "synset": "fence.n.01",
+                              "children": [
+                                {
+                                  "name": "picket_fence",
+                                  "pos_offset": "n03930313",
+                                  "synset": "picket_fence.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "bannister",
+                              "pos_offset": "n02788148",
+                              "synset": "bannister.n.02"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "tower",
+                      "pos_offset": "n04460130",
+                      "synset": "tower.n.01",
+                      "children": [
+                        {
+                          "name": "beacon",
+                          "pos_offset": "n02814860",
+                          "synset": "beacon.n.03"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "establishment",
+                      "pos_offset": "n03297735",
+                      "synset": "establishment.n.04",
+                      "children": [
+                        {
+                          "name": "place_of_business",
+                          "pos_offset": "n03953020",
+                          "synset": "place_of_business.n.01",
+                          "children": [
+                            {
+                              "name": "mercantile_establishment",
+                              "pos_offset": "n03748162",
+                              "synset": "mercantile_establishment.n.01",
+                              "children": [
+                                {
+                                  "name": "shop",
+                                  "pos_offset": "n04202417",
+                                  "synset": "shop.n.01",
+                                  "children": [
+                                    {
+                                      "name": "butcher_shop",
+                                      "pos_offset": "n02927161",
+                                      "synset": "butcher_shop.n.01"
+                                    },
+                                    {
+                                      "name": "barbershop",
+                                      "pos_offset": "n02791270",
+                                      "synset": "barbershop.n.01"
+                                    },
+                                    {
+                                      "name": "confectionery",
+                                      "pos_offset": "n03089624",
+                                      "synset": "confectionery.n.02"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "bridge",
+                      "pos_offset": "n02898711",
+                      "synset": "bridge.n.01",
+                      "children": [
+                        {
+                          "name": "suspension_bridge",
+                          "pos_offset": "n04366367",
+                          "synset": "suspension_bridge.n.01"
+                        },
+                        {
+                          "name": "steel_arch_bridge",
+                          "pos_offset": "n04311004",
+                          "synset": "steel_arch_bridge.n.01"
+                        },
+                        {
+                          "name": "viaduct",
+                          "pos_offset": "n04532670",
+                          "synset": "viaduct.n.01"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "building",
+                      "pos_offset": "n02913152",
+                      "synset": "building.n.01",
+                      "children": [
+                        {
+                          "name": "farm_building",
+                          "pos_offset": "n03322570",
+                          "synset": "farm_building.n.01",
+                          "children": [
+                            {
+                              "name": "barn",
+                              "pos_offset": "n02793495",
+                              "synset": "barn.n.01"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "fountain",
+                      "pos_offset": "n03388043",
+                      "synset": "fountain.n.01"
+                    },
+                    {
+                      "name": "memorial",
+                      "pos_offset": "n03743902",
+                      "synset": "memorial.n.03",
+                      "children": [
+                        {
+                          "name": "brass",
+                          "pos_offset": "n02892201",
+                          "synset": "brass.n.07"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "housing",
+                      "pos_offset": "n03546340",
+                      "synset": "housing.n.01",
+                      "children": [
+                        {
+                          "name": "dwelling",
+                          "pos_offset": "n03259505",
+                          "synset": "dwelling.n.01",
+                          "children": [
+                            {
+                              "name": "cliff_dwelling",
+                              "pos_offset": "n03042490",
+                              "synset": "cliff_dwelling.n.01"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "altar",
+                      "pos_offset": "n02699494",
+                      "synset": "altar.n.02"
+                    },
+                    {
+                      "name": "column",
+                      "pos_offset": "n03074380",
+                      "synset": "column.n.06",
+                      "children": [
+                        {
+                          "name": "obelisk",
+                          "pos_offset": "n03837869",
+                          "synset": "obelisk.n.01"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "plaything",
+                  "pos_offset": "n03964744",
+                  "synset": "plaything.n.01",
+                  "children": [
+                    {
+                      "name": "teddy",
+                      "pos_offset": "n04399382",
+                      "synset": "teddy.n.01"
+                    }
+                  ]
+                },
+                {
+                  "name": "sheet",
+                  "pos_offset": "n04188643",
+                  "synset": "sheet.n.06",
+                  "children": [
+                    {
+                      "name": "board",
+                      "pos_offset": "n02856463",
+                      "synset": "board.n.03",
+                      "children": [
+                        {
+                          "name": "scoreboard",
+                          "pos_offset": "n04149813",
+                          "synset": "scoreboard.n.01"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "natural_object",
+              "pos_offset": "n00019128",
+              "synset": "natural_object.n.01",
+              "children": [
+                {
+                  "name": "plant_part",
+                  "pos_offset": "n13086908",
+                  "synset": "plant_part.n.01",
+                  "children": [
+                    {
+                      "name": "plant_organ",
+                      "pos_offset": "n13087625",
+                      "synset": "plant_organ.n.01",
+                      "children": [
+                        {
+                          "name": "reproductive_structure",
+                          "pos_offset": "n11675842",
+                          "synset": "reproductive_structure.n.01",
+                          "children": [
+                            {
+                              "name": "fruit",
+                              "pos_offset": "n13134947",
+                              "synset": "fruit.n.01",
+                              "children": [
+                                {
+                                  "name": "edible_fruit",
+                                  "pos_offset": "n07705931",
+                                  "synset": "edible_fruit.n.01",
+                                  "children": [
+                                    {
+                                      "name": "citrus",
+                                      "pos_offset": "n07747055",
+                                      "synset": "citrus.n.01",
+                                      "children": [
+                                        {
+                                          "name": "lemon",
+                                          "pos_offset": "n07749582",
+                                          "synset": "lemon.n.01"
+                                        },
+                                        {
+                                          "name": "orange",
+                                          "pos_offset": "n07747607",
+                                          "synset": "orange.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "banana",
+                                      "pos_offset": "n07753592",
+                                      "synset": "banana.n.02"
+                                    },
+                                    {
+                                      "name": "pomegranate",
+                                      "pos_offset": "n07768694",
+                                      "synset": "pomegranate.n.02"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "acorn",
+                                  "pos_offset": "n12267677",
+                                  "synset": "acorn.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "geological_formation",
+          "pos_offset": "n09287968",
+          "synset": "geological_formation.n.01",
+          "children": [
+            {
+              "name": "cliff",
+              "pos_offset": "n09246464",
+              "synset": "cliff.n.01"
+            },
+            {
+              "name": "shore",
+              "pos_offset": "n09433442",
+              "synset": "shore.n.01",
+              "children": [
+                {
+                  "name": "seashore",
+                  "pos_offset": "n09428293",
+                  "synset": "seashore.n.01"
+                },
+                {
+                  "name": "lakeside",
+                  "pos_offset": "n09332890",
+                  "synset": "lakeside.n.01"
+                }
+              ]
+            },
+            {
+              "name": "natural_elevation",
+              "pos_offset": "n09366317",
+              "synset": "natural_elevation.n.01",
+              "children": [
+                {
+                  "name": "ridge",
+                  "pos_offset": "n09409512",
+                  "synset": "ridge.n.01",
+                  "children": [
+                    {
+                      "name": "reef",
+                      "pos_offset": "n09406793",
+                      "synset": "reef.n.01",
+                      "children": [
+                        {
+                          "name": "coral_reef",
+                          "pos_offset": "n09256479",
+                          "synset": "coral_reef.n.01"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "mountain",
+                  "pos_offset": "n09359803",
+                  "synset": "mountain.n.01",
+                  "children": [
+                    {
+                      "name": "alp",
+                      "pos_offset": "n09193705",
+                      "synset": "alp.n.01"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "pos_offset": "n00020827",
+      "synset": "matter.n.03",
+      "children": [
+        {
+          "name": "substance",
+          "pos_offset": "n00020090",
+          "synset": "substance.n.07",
+          "children": [
+            {
+              "name": "food",
+              "pos_offset": "n00021265",
+              "synset": "food.n.01",
+              "children": [
+                {
+                  "name": "beverage",
+                  "pos_offset": "n07881800",
+                  "synset": "beverage.n.01",
+                  "children": [
+                    {
+                      "name": "coffee",
+                      "pos_offset": "n07929519",
+                      "synset": "coffee.n.01",
+                      "children": [
+                        {
+                          "name": "espresso",
+                          "pos_offset": "n07920052",
+                          "synset": "espresso.n.01"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "nutriment",
+                  "pos_offset": "n07570720",
+                  "synset": "nutriment.n.01",
+                  "children": [
+                    {
+                      "name": "dish",
+                      "pos_offset": "n07557434",
+                      "synset": "dish.n.02",
+                      "children": [
+                        {
+                          "name": "pizza",
+                          "pos_offset": "n07873807",
+                          "synset": "pizza.n.01"
+                        },
+                        {
+                          "name": "potpie",
+                          "pos_offset": "n07875152",
+                          "synset": "potpie.n.01"
+                        },
+                        {
+                          "name": "meat_loaf",
+                          "pos_offset": "n07871810",
+                          "synset": "meat_loaf.n.01"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "course",
+                      "pos_offset": "n07556970",
+                      "synset": "course.n.07",
+                      "children": [
+                        {
+                          "name": "dessert",
+                          "pos_offset": "n07609840",
+                          "synset": "dessert.n.01",
+                          "children": [
+                            {
+                              "name": "frozen_dessert",
+                              "pos_offset": "n07611358",
+                              "synset": "frozen_dessert.n.01",
+                              "children": [
+                                {
+                                  "name": "ice_cream",
+                                  "pos_offset": "n07614500",
+                                  "synset": "ice_cream.n.01"
+                                },
+                                {
+                                  "name": "ice_lolly",
+                                  "pos_offset": "n07615774",
+                                  "synset": "ice_lolly.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "entree",
+                          "pos_offset": "n07579575",
+                          "synset": "entree.n.01",
+                          "children": [
+                            {
+                              "name": "plate",
+                              "pos_offset": "n07579787",
+                              "synset": "plate.n.08"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "foodstuff",
+                  "pos_offset": "n07566340",
+                  "synset": "foodstuff.n.02",
+                  "children": [
+                    {
+                      "name": "ingredient",
+                      "pos_offset": "n07809096",
+                      "synset": "ingredient.n.03",
+                      "children": [
+                        {
+                          "name": "flavorer",
+                          "pos_offset": "n07809368",
+                          "synset": "flavorer.n.01",
+                          "children": [
+                            {
+                              "name": "condiment",
+                              "pos_offset": "n07810907",
+                              "synset": "condiment.n.01",
+                              "children": [
+                                {
+                                  "name": "dip",
+                                  "pos_offset": "n07582609",
+                                  "synset": "dip.n.04",
+                                  "children": [
+                                    {
+                                      "name": "guacamole",
+                                      "pos_offset": "n07583066",
+                                      "synset": "guacamole.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "solid",
+          "pos_offset": "n15046900",
+          "synset": "solid.n.01",
+          "children": [
+            {
+              "name": "food",
+              "pos_offset": "n07555863",
+              "synset": "food.n.02",
+              "children": [
+                {
+                  "name": "baked_goods",
+                  "pos_offset": "n07622061",
+                  "synset": "baked_goods.n.01",
+                  "children": [
+                    {
+                      "name": "bread",
+                      "pos_offset": "n07679356",
+                      "synset": "bread.n.01",
+                      "children": [
+                        {
+                          "name": "cracker",
+                          "pos_offset": "n07681926",
+                          "synset": "cracker.n.01",
+                          "children": [
+                            {
+                              "name": "pretzel",
+                              "pos_offset": "n07695742",
+                              "synset": "pretzel.n.01"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "produce",
+                  "pos_offset": "n07705711",
+                  "synset": "produce.n.01",
+                  "children": [
+                    {
+                      "name": "vegetable",
+                      "pos_offset": "n07707451",
+                      "synset": "vegetable.n.01",
+                      "children": [
+                        {
+                          "name": "mushroom",
+                          "pos_offset": "n07734744",
+                          "synset": "mushroom.n.05"
+                        },
+                        {
+                          "name": "root_vegetable",
+                          "pos_offset": "n07710283",
+                          "synset": "root_vegetable.n.01",
+                          "children": [
+                            {
+                              "name": "potato",
+                              "pos_offset": "n07710616",
+                              "synset": "potato.n.01",
+                              "children": [
+                                {
+                                  "name": "mashed_potato",
+                                  "pos_offset": "n07711569",
+                                  "synset": "mashed_potato.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "solanaceous_vegetable",
+                          "pos_offset": "n07710007",
+                          "synset": "solanaceous_vegetable.n.01",
+                          "children": [
+                            {
+                              "name": "pepper",
+                              "pos_offset": "n07720442",
+                              "synset": "pepper.n.04",
+                              "children": [
+                                {
+                                  "name": "sweet_pepper",
+                                  "pos_offset": "n07720615",
+                                  "synset": "sweet_pepper.n.02",
+                                  "children": [
+                                    {
+                                      "name": "bell_pepper",
+                                      "pos_offset": "n07720875",
+                                      "synset": "bell_pepper.n.02"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "cruciferous_vegetable",
+                          "pos_offset": "n07713395",
+                          "synset": "cruciferous_vegetable.n.01",
+                          "children": [
+                            {
+                              "name": "cauliflower",
+                              "pos_offset": "n07715103",
+                              "synset": "cauliflower.n.02"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

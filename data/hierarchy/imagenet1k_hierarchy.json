@@ -1,0 +1,3199 @@
+{
+  "name": "entity.n.01",
+  "children": [
+    {
+      "name": "physical_entity.n.01",
+      "children": [
+        {
+          "name": "object.n.01",
+          "children": [
+            {
+              "name": "whole.n.02",
+              "children": [
+                {
+                  "name": "living_thing.n.01",
+                  "children": [
+                    {
+                      "name": "organism.n.01",
+                      "children": [
+                        {
+                          "name": "animal.n.01",
+                          "children": [
+                            {
+                              "name": "chordate.n.01",
+                              "children": [
+                                {
+                                  "name": "vertebrate.n.01",
+                                  "children": [
+                                    {
+                                      "name": "aquatic_vertebrate.n.01",
+                                      "children": [
+                                        {
+                                          "name": "fish.n.01",
+                                          "children": [
+                                            {
+                                              "name": "bony_fish.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "teleost_fish.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "soft-finned_fish.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "cypriniform_fish.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "cyprinid.n.01"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "spiny-finned_fish.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "percoid_fish.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "butterfly_fish.n.01"
+                                                            },
+                                                            {
+                                                              "name": "damselfish.n.01"
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "scorpaenoid.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "scorpaenid.n.01"
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "plectognath.n.01"
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "ganoid.n.01"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "cartilaginous_fish.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "elasmobranch.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "shark.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "mackerel_shark.n.01"
+                                                        },
+                                                        {
+                                                          "name": "requiem_shark.n.01"
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "ray.n.07"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "food_fish.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "salmon.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "bird.n.01",
+                                      "children": [
+                                        {
+                                          "name": "ratite.n.01"
+                                        },
+                                        {
+                                          "name": "passerine.n.01",
+                                          "children": [
+                                            {
+                                              "name": "oscine.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "finch.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "bunting.n.02"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "thrush.n.03",
+                                                  "children": [
+                                                    {
+                                                      "name": "nightingale.n.01"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "corvine_bird.n.01"
+                                                },
+                                                {
+                                                  "name": "titmouse.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "bird_of_prey.n.01",
+                                          "children": [
+                                            {
+                                              "name": "hawk.n.01"
+                                            },
+                                            {
+                                              "name": "eagle.n.01"
+                                            },
+                                            {
+                                              "name": "owl.n.01"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "gallinaceous_bird.n.01",
+                                          "children": [
+                                            {
+                                              "name": "game_bird.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "grouse.n.02"
+                                                },
+                                                {
+                                                  "name": "phasianid.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "pheasant.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "peafowl.n.01"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "parrot.n.01",
+                                          "children": [
+                                            {
+                                              "name": "cockatoo.n.01"
+                                            },
+                                            {
+                                              "name": "lory.n.01"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "cuculiform_bird.n.01",
+                                          "children": [
+                                            {
+                                              "name": "cuckoo.n.02"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "coraciiform_bird.n.01"
+                                        },
+                                        {
+                                          "name": "apodiform_bird.n.01"
+                                        },
+                                        {
+                                          "name": "piciform_bird.n.01"
+                                        },
+                                        {
+                                          "name": "aquatic_bird.n.01",
+                                          "children": [
+                                            {
+                                              "name": "waterfowl.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "anseriform_bird.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "duck.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "sea_duck.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "merganser.n.01"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "swan.n.01"
+                                            },
+                                            {
+                                              "name": "wading_bird.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "stork.n.01"
+                                                },
+                                                {
+                                                  "name": "heron.n.02",
+                                                  "children": [
+                                                    {
+                                                      "name": "egret.n.01"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "rail.n.05",
+                                                  "children": [
+                                                    {
+                                                      "name": "coot.n.01"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "shorebird.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "plover.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "turnstone.n.01"
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "sandpiper.n.01"
+                                                    },
+                                                    {
+                                                      "name": "snipe.n.01"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "gallinule.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "purple_gallinule.n.01"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "seabird.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "pelecaniform_seabird.n.01"
+                                                },
+                                                {
+                                                  "name": "sphenisciform_seabird.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "penguin.n.01"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "pelagic_bird.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "amphibian.n.03",
+                                      "children": [
+                                        {
+                                          "name": "salamander.n.01",
+                                          "children": [
+                                            {
+                                              "name": "newt.n.01"
+                                            },
+                                            {
+                                              "name": "ambystomid.n.01"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "frog.n.01",
+                                          "children": [
+                                            {
+                                              "name": "true_frog.n.01"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "reptile.n.01",
+                                      "children": [
+                                        {
+                                          "name": "anapsid.n.01",
+                                          "children": [
+                                            {
+                                              "name": "chelonian.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "turtle.n.02",
+                                                  "children": [
+                                                    {
+                                                      "name": "sea_turtle.n.01"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "diapsid.n.01",
+                                          "children": [
+                                            {
+                                              "name": "saurian.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "lizard.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "gecko.n.01"
+                                                    },
+                                                    {
+                                                      "name": "iguanid.n.01"
+                                                    },
+                                                    {
+                                                      "name": "teiid_lizard.n.01"
+                                                    },
+                                                    {
+                                                      "name": "agamid.n.01"
+                                                    },
+                                                    {
+                                                      "name": "anguid_lizard.n.01"
+                                                    },
+                                                    {
+                                                      "name": "venomous_lizard.n.01"
+                                                    },
+                                                    {
+                                                      "name": "lacertid_lizard.n.01"
+                                                    },
+                                                    {
+                                                      "name": "chameleon.n.03"
+                                                    },
+                                                    {
+                                                      "name": "monitor.n.07"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "crocodilian_reptile.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "crocodile.n.01"
+                                                },
+                                                {
+                                                  "name": "alligator.n.02"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "archosaur.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "dinosaur.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "ornithischian.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "ceratopsian.n.01"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "snake.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "colubrid_snake.n.01"
+                                                },
+                                                {
+                                                  "name": "constrictor.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "boa.n.02",
+                                                      "children": [
+                                                        {
+                                                          "name": "python.n.01"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "elapid.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "cobra.n.01"
+                                                    },
+                                                    {
+                                                      "name": "mamba.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "black_mamba.n.01"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "viper.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "pit_viper.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "rattlesnake.n.01"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "mammal.n.01",
+                                      "children": [
+                                        {
+                                          "name": "prototherian.n.01",
+                                          "children": [
+                                            {
+                                              "name": "monotreme.n.01"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "metatherian.n.01",
+                                          "children": [
+                                            {
+                                              "name": "marsupial.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "kangaroo.n.01"
+                                                },
+                                                {
+                                                  "name": "phalanger.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "placental.n.01",
+                                          "children": [
+                                            {
+                                              "name": "aquatic_mammal.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "cetacean.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "whale.n.02",
+                                                      "children": [
+                                                        {
+                                                          "name": "baleen_whale.n.01"
+                                                        },
+                                                        {
+                                                          "name": "toothed_whale.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "dolphin.n.02"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "sea_cow.n.01"
+                                                },
+                                                {
+                                                  "name": "pinniped_mammal.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "seal.n.09",
+                                                      "children": [
+                                                        {
+                                                          "name": "eared_seal.n.01"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "carnivore.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "canine.n.02",
+                                                  "children": [
+                                                    {
+                                                      "name": "dog.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "toy_dog.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "toy_spaniel.n.01",
+                                                              "children": [
+                                                                {
+                                                                  "name": "english_toy_spaniel.n.01"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "hunting_dog.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "hound.n.01",
+                                                              "children": [
+                                                                {
+                                                                  "name": "coonhound.n.01"
+                                                                },
+                                                                {
+                                                                  "name": "foxhound.n.01"
+                                                                },
+                                                                {
+                                                                  "name": "wolfhound.n.01"
+                                                                },
+                                                                {
+                                                                  "name": "greyhound.n.01"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "terrier.n.01",
+                                                              "children": [
+                                                                {
+                                                                  "name": "bullterrier.n.01"
+                                                                },
+                                                                {
+                                                                  "name": "fox_terrier.n.01"
+                                                                },
+                                                                {
+                                                                  "name": "wirehair.n.01",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "welsh_terrier.n.01"
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "name": "schnauzer.n.01"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "sporting_dog.n.01",
+                                                              "children": [
+                                                                {
+                                                                  "name": "retriever.n.01"
+                                                                },
+                                                                {
+                                                                  "name": "pointer.n.04"
+                                                                },
+                                                                {
+                                                                  "name": "setter.n.02"
+                                                                },
+                                                                {
+                                                                  "name": "spaniel.n.01",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "springer_spaniel.n.01"
+                                                                    },
+                                                                    {
+                                                                      "name": "water_spaniel.n.01"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "working_dog.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "watchdog.n.02",
+                                                              "children": [
+                                                                {
+                                                                  "name": "pinscher.n.01"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "shepherd_dog.n.01",
+                                                              "children": [
+                                                                {
+                                                                  "name": "belgian_sheepdog.n.01"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "sennenhunde.n.01"
+                                                            },
+                                                            {
+                                                              "name": "mastiff.n.01"
+                                                            },
+                                                            {
+                                                              "name": "bulldog.n.01"
+                                                            },
+                                                            {
+                                                              "name": "sled_dog.n.01"
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "spitz.n.01"
+                                                        },
+                                                        {
+                                                          "name": "griffon.n.02"
+                                                        },
+                                                        {
+                                                          "name": "corgi.n.01"
+                                                        },
+                                                        {
+                                                          "name": "poodle.n.01"
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "wolf.n.01"
+                                                    },
+                                                    {
+                                                      "name": "wild_dog.n.01"
+                                                    },
+                                                    {
+                                                      "name": "fox.n.01"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "feline.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "cat.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "domestic_cat.n.01"
+                                                        },
+                                                        {
+                                                          "name": "wildcat.n.03"
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "big_cat.n.01"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "bear.n.01"
+                                                },
+                                                {
+                                                  "name": "viverrine.n.01"
+                                                },
+                                                {
+                                                  "name": "musteline_mammal.n.01"
+                                                },
+                                                {
+                                                  "name": "procyonid.n.01"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "lagomorph.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "leporid.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "rabbit.n.01"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "rodent.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "squirrel.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "tree_squirrel.n.01"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "cavy.n.01"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "ungulate.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "odd-toed_ungulate.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "equine.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "horse.n.01"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "even-toed_ungulate.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "swine.n.01"
+                                                    },
+                                                    {
+                                                      "name": "ruminant.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "bovid.n.01",
+                                                          "children": [
+                                                            {
+                                                              "name": "bovine.n.01",
+                                                              "children": [
+                                                                {
+                                                                  "name": "cattle.n.01"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "old_world_buffalo.n.01"
+                                                            },
+                                                            {
+                                                              "name": "sheep.n.01"
+                                                            },
+                                                            {
+                                                              "name": "wild_sheep.n.01",
+                                                              "children": [
+                                                                {
+                                                                  "name": "mountain_sheep.n.01"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "goat.n.01",
+                                                              "children": [
+                                                                {
+                                                                  "name": "wild_goat.n.01"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "antelope.n.01"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "camel.n.01"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "edentate.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "sloth.n.02"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "primate.n.02",
+                                              "children": [
+                                                {
+                                                  "name": "ape.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "anthropoid_ape.n.01",
+                                                      "children": [
+                                                        {
+                                                          "name": "great_ape.n.01"
+                                                        },
+                                                        {
+                                                          "name": "lesser_ape.n.01"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "monkey.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "old_world_monkey.n.01"
+                                                    },
+                                                    {
+                                                      "name": "new_world_monkey.n.01"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "lemur.n.01"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "pachyderm.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "elephant.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "invertebrate.n.01",
+                              "children": [
+                                {
+                                  "name": "arthropod.n.01",
+                                  "children": [
+                                    {
+                                      "name": "arachnid.n.01",
+                                      "children": [
+                                        {
+                                          "name": "spider.n.01"
+                                        },
+                                        {
+                                          "name": "acarine.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "crustacean.n.01",
+                                      "children": [
+                                        {
+                                          "name": "decapod_crustacean.n.01",
+                                          "children": [
+                                            {
+                                              "name": "crab.n.01"
+                                            },
+                                            {
+                                              "name": "lobster.n.02",
+                                              "children": [
+                                                {
+                                                  "name": "true_lobster.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "malacostracan_crustacean.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "insect.n.01",
+                                      "children": [
+                                        {
+                                          "name": "beetle.n.01",
+                                          "children": [
+                                            {
+                                              "name": "lamellicorn_beetle.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "scarabaeid_beetle.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "dipterous_insect.n.01"
+                                        },
+                                        {
+                                          "name": "hymenopterous_insect.n.01"
+                                        },
+                                        {
+                                          "name": "orthopterous_insect.n.01"
+                                        },
+                                        {
+                                          "name": "phasmid.n.01"
+                                        },
+                                        {
+                                          "name": "dictyopterous_insect.n.01"
+                                        },
+                                        {
+                                          "name": "homopterous_insect.n.01"
+                                        },
+                                        {
+                                          "name": "neuropteron.n.01"
+                                        },
+                                        {
+                                          "name": "odonate.n.01"
+                                        },
+                                        {
+                                          "name": "lepidopterous_insect.n.01",
+                                          "children": [
+                                            {
+                                              "name": "butterfly.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "nymphalid.n.01"
+                                                },
+                                                {
+                                                  "name": "danaid.n.01"
+                                                },
+                                                {
+                                                  "name": "pierid.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "coelenterate.n.01",
+                                  "children": [
+                                    {
+                                      "name": "anthozoan.n.01",
+                                      "children": [
+                                        {
+                                          "name": "coral.n.04",
+                                          "children": [
+                                            {
+                                              "name": "stony_coral.n.01"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "worm.n.01"
+                                },
+                                {
+                                  "name": "mollusk.n.01",
+                                  "children": [
+                                    {
+                                      "name": "gastropod.n.01"
+                                    },
+                                    {
+                                      "name": "cephalopod.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "echinoderm.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "plant.n.02",
+                          "children": [
+                            {
+                              "name": "vascular_plant.n.01",
+                              "children": [
+                                {
+                                  "name": "spermatophyte.n.01",
+                                  "children": [
+                                    {
+                                      "name": "angiosperm.n.01",
+                                      "children": [
+                                        {
+                                          "name": "flower.n.01",
+                                          "children": [
+                                            {
+                                              "name": "orchid.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "lady's_slipper.n.01"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "fungus.n.01",
+                          "children": [
+                            {
+                              "name": "basidiomycete.n.01"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "artifact.n.01",
+                  "children": [
+                    {
+                      "name": "instrumentality.n.03",
+                      "children": [
+                        {
+                          "name": "device.n.01",
+                          "children": [
+                            {
+                              "name": "machine.n.01",
+                              "children": [
+                                {
+                                  "name": "calculator.n.02"
+                                },
+                                {
+                                  "name": "power_tool.n.01",
+                                  "children": [
+                                    {
+                                      "name": "power_saw.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "computer.n.01",
+                                  "children": [
+                                    {
+                                      "name": "digital_computer.n.01",
+                                      "children": [
+                                        {
+                                          "name": "personal_computer.n.01",
+                                          "children": [
+                                            {
+                                              "name": "portable_computer.n.01"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "analog_computer.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "farm_machine.n.01"
+                                },
+                                {
+                                  "name": "slot_machine.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "musical_instrument.n.01",
+                              "children": [
+                                {
+                                  "name": "wind_instrument.n.01",
+                                  "children": [
+                                    {
+                                      "name": "free-reed_instrument.n.01"
+                                    },
+                                    {
+                                      "name": "woodwind.n.01",
+                                      "children": [
+                                        {
+                                          "name": "beating-reed_instrument.n.01",
+                                          "children": [
+                                            {
+                                              "name": "double-reed_instrument.n.01"
+                                            },
+                                            {
+                                              "name": "single-reed_instrument.n.01"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "brass.n.02"
+                                    },
+                                    {
+                                      "name": "pipe.n.04"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "stringed_instrument.n.01",
+                                  "children": [
+                                    {
+                                      "name": "guitar.n.01"
+                                    },
+                                    {
+                                      "name": "bowed_stringed_instrument.n.01"
+                                    },
+                                    {
+                                      "name": "chordophone.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "percussion_instrument.n.01"
+                                },
+                                {
+                                  "name": "keyboard_instrument.n.01",
+                                  "children": [
+                                    {
+                                      "name": "piano.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "instrument.n.01",
+                              "children": [
+                                {
+                                  "name": "measuring_instrument.n.01",
+                                  "children": [
+                                    {
+                                      "name": "timepiece.n.01",
+                                      "children": [
+                                        {
+                                          "name": "clock.n.01"
+                                        },
+                                        {
+                                          "name": "watch.n.01"
+                                        },
+                                        {
+                                          "name": "sandglass.n.01"
+                                        },
+                                        {
+                                          "name": "timer.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "meter.n.02"
+                                    },
+                                    {
+                                      "name": "measuring_stick.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "weapon.n.01",
+                                  "children": [
+                                    {
+                                      "name": "gun.n.01",
+                                      "children": [
+                                        {
+                                          "name": "firearm.n.01",
+                                          "children": [
+                                            {
+                                              "name": "autoloader.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "automatic_firearm.n.01",
+                                                  "children": [
+                                                    {
+                                                      "name": "automatic_rifle.n.01"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "pistol.n.01"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "optical_instrument.n.01",
+                                  "children": [
+                                    {
+                                      "name": "spectacles.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "instrument_of_execution.n.01"
+                                },
+                                {
+                                  "name": "scientific_instrument.n.01",
+                                  "children": [
+                                    {
+                                      "name": "magnifier.n.01",
+                                      "children": [
+                                        {
+                                          "name": "microscope.n.01",
+                                          "children": [
+                                            {
+                                              "name": "light_microscope.n.01",
+                                              "children": [
+                                                {
+                                                  "name": "hand_glass.n.02"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "telescope.n.01",
+                                          "children": [
+                                            {
+                                              "name": "astronomical_telescope.n.01"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "navigational_instrument.n.01",
+                                  "children": [
+                                    {
+                                      "name": "compass.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "medical_instrument.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "restraint.n.06",
+                              "children": [
+                                {
+                                  "name": "fastener.n.02",
+                                  "children": [
+                                    {
+                                      "name": "lock.n.01"
+                                    },
+                                    {
+                                      "name": "clip.n.03"
+                                    },
+                                    {
+                                      "name": "pin.n.09"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "brake.n.01",
+                                  "children": [
+                                    {
+                                      "name": "brake_system.n.01",
+                                      "children": [
+                                        {
+                                          "name": "hydraulic_brake.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "source_of_illumination.n.01",
+                              "children": [
+                                {
+                                  "name": "lamp.n.01",
+                                  "children": [
+                                    {
+                                      "name": "lantern.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "light.n.02"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "reflector.n.01",
+                              "children": [
+                                {
+                                  "name": "mirror.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "mechanism.n.05",
+                              "children": [
+                                {
+                                  "name": "mechanical_device.n.01",
+                                  "children": [
+                                    {
+                                      "name": "ride.n.02"
+                                    },
+                                    {
+                                      "name": "machine.n.04",
+                                      "children": [
+                                        {
+                                          "name": "wheel.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "pump.n.01"
+                                    },
+                                    {
+                                      "name": "winder.n.03"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "control.n.09"
+                                },
+                                {
+                                  "name": "rotating_mechanism.n.01",
+                                  "children": [
+                                    {
+                                      "name": "circle.n.08",
+                                      "children": [
+                                        {
+                                          "name": "disk.n.02"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "lifting_device.n.01"
+                            },
+                            {
+                              "name": "fan.n.01"
+                            },
+                            {
+                              "name": "blower.n.01"
+                            },
+                            {
+                              "name": "memory_device.n.01",
+                              "children": [
+                                {
+                                  "name": "magnetic_disk.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "electrical_device.n.01",
+                              "children": [
+                                {
+                                  "name": "transducer.n.01",
+                                  "children": [
+                                    {
+                                      "name": "electro-acoustic_transducer.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "support.n.10",
+                              "children": [
+                                {
+                                  "name": "structural_member.n.01",
+                                  "children": [
+                                    {
+                                      "name": "upright.n.01",
+                                      "children": [
+                                        {
+                                          "name": "post.n.04"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "rack.n.05"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "electronic_device.n.01",
+                              "children": [
+                                {
+                                  "name": "display.n.06"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "trap.n.01",
+                              "children": [
+                                {
+                                  "name": "web.n.02"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "strengthener.n.01",
+                              "children": [
+                                {
+                                  "name": "brace.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "filter.n.01"
+                            },
+                            {
+                              "name": "breathing_device.n.01"
+                            },
+                            {
+                              "name": "applicator.n.01"
+                            },
+                            {
+                              "name": "runner.n.09"
+                            },
+                            {
+                              "name": "heater.n.01"
+                            },
+                            {
+                              "name": "optical_device.n.01",
+                              "children": [
+                                {
+                                  "name": "lens.n.01",
+                                  "children": [
+                                    {
+                                      "name": "converging_lens.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "keyboard.n.01"
+                            },
+                            {
+                              "name": "acoustic_device.n.01"
+                            },
+                            {
+                              "name": "airfoil.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "conveyance.n.03",
+                          "children": [
+                            {
+                              "name": "vehicle.n.01",
+                              "children": [
+                                {
+                                  "name": "military_vehicle.n.01",
+                                  "children": [
+                                    {
+                                      "name": "warship.n.01",
+                                      "children": [
+                                        {
+                                          "name": "submersible.n.02"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "craft.n.02",
+                                  "children": [
+                                    {
+                                      "name": "aircraft.n.01",
+                                      "children": [
+                                        {
+                                          "name": "heavier-than-air_craft.n.01",
+                                          "children": [
+                                            {
+                                              "name": "airplane.n.01"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "lighter-than-air_craft.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "vessel.n.02",
+                                      "children": [
+                                        {
+                                          "name": "boat.n.01",
+                                          "children": [
+                                            {
+                                              "name": "small_boat.n.01"
+                                            },
+                                            {
+                                              "name": "sea_boat.n.01"
+                                            },
+                                            {
+                                              "name": "motorboat.n.01"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "sailing_vessel.n.01",
+                                          "children": [
+                                            {
+                                              "name": "sailboat.n.01"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "ship.n.01",
+                                          "children": [
+                                            {
+                                              "name": "cargo_ship.n.01"
+                                            },
+                                            {
+                                              "name": "passenger_ship.n.01"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "spacecraft.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "sled.n.01"
+                                },
+                                {
+                                  "name": "rocket.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "public_transport.n.01",
+                              "children": [
+                                {
+                                  "name": "train.n.01",
+                                  "children": [
+                                    {
+                                      "name": "passenger_train.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "bus.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "litter.n.03"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "container.n.01",
+                          "children": [
+                            {
+                              "name": "wheeled_vehicle.n.01",
+                              "children": [
+                                {
+                                  "name": "self-propelled_vehicle.n.01",
+                                  "children": [
+                                    {
+                                      "name": "motor_vehicle.n.01",
+                                      "children": [
+                                        {
+                                          "name": "car.n.01"
+                                        },
+                                        {
+                                          "name": "truck.n.01",
+                                          "children": [
+                                            {
+                                              "name": "van.n.05"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "motorcycle.n.01",
+                                          "children": [
+                                            {
+                                              "name": "minibike.n.01"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "locomotive.n.01"
+                                    },
+                                    {
+                                      "name": "tracked_vehicle.n.01"
+                                    },
+                                    {
+                                      "name": "armored_vehicle.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "handcart.n.01"
+                                },
+                                {
+                                  "name": "bicycle.n.01"
+                                },
+                                {
+                                  "name": "car.n.02"
+                                },
+                                {
+                                  "name": "wagon.n.01",
+                                  "children": [
+                                    {
+                                      "name": "cart.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "bin.n.01"
+                            },
+                            {
+                              "name": "bag.n.01"
+                            },
+                            {
+                              "name": "vessel.n.03",
+                              "children": [
+                                {
+                                  "name": "jar.n.01"
+                                },
+                                {
+                                  "name": "bottle.n.01",
+                                  "children": [
+                                    {
+                                      "name": "jug.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "drinking_vessel.n.01",
+                                  "children": [
+                                    {
+                                      "name": "mug.n.04"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "basin.n.01"
+                                },
+                                {
+                                  "name": "tank.n.02",
+                                  "children": [
+                                    {
+                                      "name": "reservoir.n.03"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "glass.n.02"
+                            },
+                            {
+                              "name": "box.n.01",
+                              "children": [
+                                {
+                                  "name": "strongbox.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "shaker.n.03"
+                            },
+                            {
+                              "name": "basket.n.01"
+                            },
+                            {
+                              "name": "measure.n.09"
+                            },
+                            {
+                              "name": "can.n.01"
+                            },
+                            {
+                              "name": "dish.n.01",
+                              "children": [
+                                {
+                                  "name": "bowl.n.03"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "package.n.02"
+                            },
+                            {
+                              "name": "savings_bank.n.02"
+                            },
+                            {
+                              "name": "dispenser.n.01"
+                            },
+                            {
+                              "name": "receptacle.n.01"
+                            },
+                            {
+                              "name": "case.n.05"
+                            },
+                            {
+                              "name": "spoon.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "equipment.n.01",
+                          "children": [
+                            {
+                              "name": "sports_equipment.n.01",
+                              "children": [
+                                {
+                                  "name": "gymnastic_apparatus.n.01"
+                                },
+                                {
+                                  "name": "weight.n.02"
+                                },
+                                {
+                                  "name": "golf_equipment.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "game_equipment.n.01",
+                              "children": [
+                                {
+                                  "name": "ball.n.01"
+                                },
+                                {
+                                  "name": "game.n.09",
+                                  "children": [
+                                    {
+                                      "name": "puzzle.n.02"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "gear.n.04",
+                              "children": [
+                                {
+                                  "name": "kit.n.02"
+                                },
+                                {
+                                  "name": "rig.n.01",
+                                  "children": [
+                                    {
+                                      "name": "drill_rig.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "electronic_equipment.n.01",
+                              "children": [
+                                {
+                                  "name": "telephone.n.01",
+                                  "children": [
+                                    {
+                                      "name": "radiotelephone.n.02"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "peripheral.n.01",
+                                  "children": [
+                                    {
+                                      "name": "data_input_device.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "audio_system.n.01",
+                                  "children": [
+                                    {
+                                      "name": "reproducer.n.01",
+                                      "children": [
+                                        {
+                                          "name": "stereo.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "rescue_equipment.n.01"
+                            },
+                            {
+                              "name": "apparatus.n.01",
+                              "children": [
+                                {
+                                  "name": "duplicator.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "photographic_equipment.n.01",
+                              "children": [
+                                {
+                                  "name": "camera.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "implement.n.01",
+                          "children": [
+                            {
+                              "name": "writing_implement.n.01",
+                              "children": [
+                                {
+                                  "name": "pen.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "cleaning_implement.n.01"
+                            },
+                            {
+                              "name": "utensil.n.01",
+                              "children": [
+                                {
+                                  "name": "kitchen_utensil.n.01",
+                                  "children": [
+                                    {
+                                      "name": "cooking_utensil.n.01",
+                                      "children": [
+                                        {
+                                          "name": "pot.n.01"
+                                        },
+                                        {
+                                          "name": "cooker.n.01"
+                                        },
+                                        {
+                                          "name": "pan.n.01"
+                                        },
+                                        {
+                                          "name": "turner.n.08"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "tool.n.01",
+                              "children": [
+                                {
+                                  "name": "hand_tool.n.01",
+                                  "children": [
+                                    {
+                                      "name": "opener.n.03",
+                                      "children": [
+                                        {
+                                          "name": "bottle_opener.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "cutting_implement.n.01",
+                                  "children": [
+                                    {
+                                      "name": "cutter.n.06",
+                                      "children": [
+                                        {
+                                          "name": "edge_tool.n.01",
+                                          "children": [
+                                            {
+                                              "name": "knife.n.01"
+                                            },
+                                            {
+                                              "name": "ax.n.01"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "garden_tool.n.01"
+                                },
+                                {
+                                  "name": "drill.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "stick.n.01",
+                              "children": [
+                                {
+                                  "name": "staff.n.02"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "oar.n.01"
+                            },
+                            {
+                              "name": "sharpener.n.01"
+                            },
+                            {
+                              "name": "rod.n.01"
+                            },
+                            {
+                              "name": "sports_implement.n.01"
+                            },
+                            {
+                              "name": "eraser.n.01"
+                            },
+                            {
+                              "name": "bar.n.03",
+                              "children": [
+                                {
+                                  "name": "lever.n.01",
+                                  "children": [
+                                    {
+                                      "name": "key.n.15"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "furnishing.n.02",
+                          "children": [
+                            {
+                              "name": "furniture.n.01",
+                              "children": [
+                                {
+                                  "name": "seat.n.03",
+                                  "children": [
+                                    {
+                                      "name": "chair.n.01",
+                                      "children": [
+                                        {
+                                          "name": "chair_of_state.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "bench.n.01"
+                                    },
+                                    {
+                                      "name": "sofa.n.01",
+                                      "children": [
+                                        {
+                                          "name": "convertible.n.03"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "baby_bed.n.01"
+                                },
+                                {
+                                  "name": "chest_of_drawers.n.01"
+                                },
+                                {
+                                  "name": "cabinet.n.01"
+                                },
+                                {
+                                  "name": "table.n.02"
+                                },
+                                {
+                                  "name": "table.n.03"
+                                },
+                                {
+                                  "name": "wall_unit.n.01"
+                                },
+                                {
+                                  "name": "office_furniture.n.01"
+                                },
+                                {
+                                  "name": "bedroom_furniture.n.01",
+                                  "children": [
+                                    {
+                                      "name": "bed.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "lamp.n.02"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "connection.n.03",
+                          "children": [
+                            {
+                              "name": "attachment.n.04",
+                              "children": [
+                                {
+                                  "name": "ligament.n.02"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "toiletry.n.01",
+                          "children": [
+                            {
+                              "name": "cosmetic.n.01",
+                              "children": [
+                                {
+                                  "name": "makeup.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "cream.n.03"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "system.n.01",
+                          "children": [
+                            {
+                              "name": "communication_system.n.01",
+                              "children": [
+                                {
+                                  "name": "telecommunication_system.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "medium.n.01",
+                          "children": [
+                            {
+                              "name": "print_media.n.01",
+                              "children": [
+                                {
+                                  "name": "press.n.02",
+                                  "children": [
+                                    {
+                                      "name": "magazine.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "commodity.n.01",
+                      "children": [
+                        {
+                          "name": "consumer_goods.n.01",
+                          "children": [
+                            {
+                              "name": "clothing.n.01",
+                              "children": [
+                                {
+                                  "name": "garment.n.01",
+                                  "children": [
+                                    {
+                                      "name": "robe.n.01"
+                                    },
+                                    {
+                                      "name": "swimsuit.n.01"
+                                    },
+                                    {
+                                      "name": "neckwear.n.01",
+                                      "children": [
+                                        {
+                                          "name": "necktie.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "undergarment.n.01"
+                                    },
+                                    {
+                                      "name": "sweater.n.01",
+                                      "children": [
+                                        {
+                                          "name": "pullover.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "scarf.n.01"
+                                    },
+                                    {
+                                      "name": "overgarment.n.01",
+                                      "children": [
+                                        {
+                                          "name": "coat.n.01",
+                                          "children": [
+                                            {
+                                              "name": "raincoat.n.01"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "cloak.n.02"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "skirt.n.02"
+                                    },
+                                    {
+                                      "name": "trouser.n.01"
+                                    },
+                                    {
+                                      "name": "shirt.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "outerwear.n.01",
+                                  "children": [
+                                    {
+                                      "name": "gown.n.05"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "protective_garment.n.01"
+                                },
+                                {
+                                  "name": "headdress.n.01",
+                                  "children": [
+                                    {
+                                      "name": "cap.n.01"
+                                    },
+                                    {
+                                      "name": "hat.n.01"
+                                    },
+                                    {
+                                      "name": "helmet.n.02"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "footwear.n.01",
+                                  "children": [
+                                    {
+                                      "name": "hosiery.n.01",
+                                      "children": [
+                                        {
+                                          "name": "stocking.n.01"
+                                        },
+                                        {
+                                          "name": "tights.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "woman's_clothing.n.01",
+                                  "children": [
+                                    {
+                                      "name": "dress.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "uniform.n.01"
+                                },
+                                {
+                                  "name": "handwear.n.01",
+                                  "children": [
+                                    {
+                                      "name": "glove.n.02"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "nightwear.n.01"
+                                },
+                                {
+                                  "name": "accessory.n.01",
+                                  "children": [
+                                    {
+                                      "name": "belt.n.02",
+                                      "children": [
+                                        {
+                                          "name": "safety_belt.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "attire.n.01",
+                                  "children": [
+                                    {
+                                      "name": "hairpiece.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "durables.n.01",
+                              "children": [
+                                {
+                                  "name": "appliance.n.02",
+                                  "children": [
+                                    {
+                                      "name": "home_appliance.n.01",
+                                      "children": [
+                                        {
+                                          "name": "white_goods.n.01"
+                                        },
+                                        {
+                                          "name": "kitchen_appliance.n.01",
+                                          "children": [
+                                            {
+                                              "name": "oven.n.01"
+                                            },
+                                            {
+                                              "name": "coffee_maker.n.01"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "drygoods.n.01",
+                          "children": [
+                            {
+                              "name": "white_goods.n.02",
+                              "children": [
+                                {
+                                  "name": "linen.n.03",
+                                  "children": [
+                                    {
+                                      "name": "bath_linen.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "structure.n.01",
+                      "children": [
+                        {
+                          "name": "building.n.01",
+                          "children": [
+                            {
+                              "name": "outbuilding.n.01",
+                              "children": [
+                                {
+                                  "name": "shed.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "farm_building.n.01"
+                            },
+                            {
+                              "name": "place_of_worship.n.01",
+                              "children": [
+                                {
+                                  "name": "shrine.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "theater.n.01"
+                            },
+                            {
+                              "name": "house.n.01",
+                              "children": [
+                                {
+                                  "name": "residence.n.02",
+                                  "children": [
+                                    {
+                                      "name": "religious_residence.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "establishment.n.04",
+                          "children": [
+                            {
+                              "name": "place_of_business.n.01",
+                              "children": [
+                                {
+                                  "name": "mercantile_establishment.n.01",
+                                  "children": [
+                                    {
+                                      "name": "shop.n.01"
+                                    },
+                                    {
+                                      "name": "marketplace.n.02"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "institution.n.02",
+                              "children": [
+                                {
+                                  "name": "penal_institution.n.01",
+                                  "children": [
+                                    {
+                                      "name": "correctional_institution.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "obstruction.n.01",
+                          "children": [
+                            {
+                              "name": "barrier.n.01",
+                              "children": [
+                                {
+                                  "name": "fence.n.01",
+                                  "children": [
+                                    {
+                                      "name": "rail_fence.n.01"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "grate.n.03"
+                                },
+                                {
+                                  "name": "movable_barrier.n.01",
+                                  "children": [
+                                    {
+                                      "name": "door.n.01"
+                                    },
+                                    {
+                                      "name": "gate.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "tower.n.01"
+                        },
+                        {
+                          "name": "memorial.n.03"
+                        },
+                        {
+                          "name": "defensive_structure.n.01",
+                          "children": [
+                            {
+                              "name": "fortification.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "housing.n.01",
+                          "children": [
+                            {
+                              "name": "dwelling.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "landing.n.02"
+                        },
+                        {
+                          "name": "supporting_structure.n.01",
+                          "children": [
+                            {
+                              "name": "framework.n.03",
+                              "children": [
+                                {
+                                  "name": "rack.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "support.n.07"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "building_complex.n.01",
+                          "children": [
+                            {
+                              "name": "plant.n.01",
+                              "children": [
+                                {
+                                  "name": "factory.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "shelter.n.01",
+                          "children": [
+                            {
+                              "name": "tent.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "column.n.06"
+                        },
+                        {
+                          "name": "area.n.05"
+                        },
+                        {
+                          "name": "bridge.n.01"
+                        },
+                        {
+                          "name": "arch.n.04"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "covering.n.02",
+                      "children": [
+                        {
+                          "name": "cloth_covering.n.01",
+                          "children": [
+                            {
+                              "name": "dressing.n.04",
+                              "children": [
+                                {
+                                  "name": "bandage.n.01",
+                                  "children": [
+                                    {
+                                      "name": "adhesive_bandage.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "bedclothes.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "protective_covering.n.01",
+                          "children": [
+                            {
+                              "name": "shelter.n.02",
+                              "children": [
+                                {
+                                  "name": "canopy.n.03"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "shield.n.01",
+                              "children": [
+                                {
+                                  "name": "plate.n.14",
+                                  "children": [
+                                    {
+                                      "name": "armor_plate.n.01",
+                                      "children": [
+                                        {
+                                          "name": "helmet.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "armor.n.01",
+                              "children": [
+                                {
+                                  "name": "body_armor.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "roof.n.01"
+                            },
+                            {
+                              "name": "screen.n.05"
+                            },
+                            {
+                              "name": "mask.n.04",
+                              "children": [
+                                {
+                                  "name": "face_mask.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "sheath.n.01"
+                            },
+                            {
+                              "name": "shade.n.03"
+                            },
+                            {
+                              "name": "cap.n.04"
+                            },
+                            {
+                              "name": "blind.n.03",
+                              "children": [
+                                {
+                                  "name": "curtain.n.01"
+                                },
+                                {
+                                  "name": "window_blind.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "top.n.09",
+                          "children": [
+                            {
+                              "name": "cap.n.02"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "footwear.n.02",
+                          "children": [
+                            {
+                              "name": "boot.n.01"
+                            },
+                            {
+                              "name": "shoe.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "floor_cover.n.01",
+                          "children": [
+                            {
+                              "name": "mat.n.01"
+                            },
+                            {
+                              "name": "rug.n.01"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "screen.n.04"
+                        },
+                        {
+                          "name": "wrapping.n.01",
+                          "children": [
+                            {
+                              "name": "jacket.n.02"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "fabric.n.01",
+                      "children": [
+                        {
+                          "name": "piece_of_cloth.n.01",
+                          "children": [
+                            {
+                              "name": "towel.n.01"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "decoration.n.01",
+                      "children": [
+                        {
+                          "name": "adornment.n.01",
+                          "children": [
+                            {
+                              "name": "jewelry.n.01"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "padding.n.01",
+                      "children": [
+                        {
+                          "name": "cushion.n.03"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "excavation.n.03",
+                      "children": [
+                        {
+                          "name": "pool.n.01",
+                          "children": [
+                            {
+                              "name": "cistern.n.03"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "sheet.n.06",
+                      "children": [
+                        {
+                          "name": "board.n.03"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "surface.n.01",
+                      "children": [
+                        {
+                          "name": "horizontal_surface.n.01",
+                          "children": [
+                            {
+                              "name": "platform.n.01"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "plaything.n.01"
+                    }
+                  ]
+                },
+                {
+                  "name": "natural_object.n.01",
+                  "children": [
+                    {
+                      "name": "plant_part.n.01",
+                      "children": [
+                        {
+                          "name": "plant_organ.n.01",
+                          "children": [
+                            {
+                              "name": "reproductive_structure.n.01",
+                              "children": [
+                                {
+                                  "name": "fruit.n.01",
+                                  "children": [
+                                    {
+                                      "name": "edible_fruit.n.01",
+                                      "children": [
+                                        {
+                                          "name": "apple.n.01",
+                                          "children": [
+                                            {
+                                              "name": "eating_apple.n.01"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "berry.n.01"
+                                        },
+                                        {
+                                          "name": "citrus.n.01"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "seed.n.01",
+                                      "children": [
+                                        {
+                                          "name": "oilseed.n.01"
+                                        },
+                                        {
+                                          "name": "grain.n.07",
+                                          "children": [
+                                            {
+                                              "name": "kernel.n.02"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "mechanism.n.03",
+                      "children": [
+                        {
+                          "name": "barrier.n.03",
+                          "children": [
+                            {
+                              "name": "bar.n.08"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "geological_formation.n.01",
+              "children": [
+                {
+                  "name": "natural_elevation.n.01",
+                  "children": [
+                    {
+                      "name": "mountain.n.01"
+                    },
+                    {
+                      "name": "ridge.n.01",
+                      "children": [
+                        {
+                          "name": "reef.n.01"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "spring.n.03"
+                },
+                {
+                  "name": "shore.n.01"
+                },
+                {
+                  "name": "natural_depression.n.01"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "matter.n.03",
+          "children": [
+            {
+              "name": "substance.n.07",
+              "children": [
+                {
+                  "name": "food.n.01",
+                  "children": [
+                    {
+                      "name": "fare.n.04"
+                    },
+                    {
+                      "name": "nutriment.n.01",
+                      "children": [
+                        {
+                          "name": "course.n.07",
+                          "children": [
+                            {
+                              "name": "entree.n.01"
+                            },
+                            {
+                              "name": "dessert.n.01",
+                              "children": [
+                                {
+                                  "name": "pudding.n.02"
+                                },
+                                {
+                                  "name": "frozen_dessert.n.01"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "dish.n.02",
+                          "children": [
+                            {
+                              "name": "soup.n.01"
+                            },
+                            {
+                              "name": "stew.n.02"
+                            },
+                            {
+                              "name": "snack_food.n.01",
+                              "children": [
+                                {
+                                  "name": "sandwich.n.01",
+                                  "children": [
+                                    {
+                                      "name": "hamburger.n.01"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "foodstuff.n.02",
+                      "children": [
+                        {
+                          "name": "ingredient.n.03",
+                          "children": [
+                            {
+                              "name": "flavorer.n.01",
+                              "children": [
+                                {
+                                  "name": "condiment.n.01",
+                                  "children": [
+                                    {
+                                      "name": "dip.n.04"
+                                    },
+                                    {
+                                      "name": "sauce.n.01",
+                                      "children": [
+                                        {
+                                          "name": "spaghetti_sauce.n.01"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "concoction.n.01"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "feed.n.01",
+                      "children": [
+                        {
+                          "name": "fodder.n.02"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "beverage.n.01",
+                      "children": [
+                        {
+                          "name": "alcohol.n.01",
+                          "children": [
+                            {
+                              "name": "wine.n.01"
+                            },
+                            {
+                              "name": "mixed_drink.n.01",
+                              "children": [
+                                {
+                                  "name": "punch.n.02"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "coffee.n.01"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "solid.n.01",
+              "children": [
+                {
+                  "name": "food.n.02",
+                  "children": [
+                    {
+                      "name": "baked_goods.n.01",
+                      "children": [
+                        {
+                          "name": "bread.n.01",
+                          "children": [
+                            {
+                              "name": "loaf_of_bread.n.01"
+                            },
+                            {
+                              "name": "bun.n.01"
+                            },
+                            {
+                              "name": "cracker.n.01"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "produce.n.01",
+                      "children": [
+                        {
+                          "name": "vegetable.n.01",
+                          "children": [
+                            {
+                              "name": "root_vegetable.n.01",
+                              "children": [
+                                {
+                                  "name": "potato.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "cruciferous_vegetable.n.01",
+                              "children": [
+                                {
+                                  "name": "cabbage.n.01"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "squash.n.02",
+                              "children": [
+                                {
+                                  "name": "summer_squash.n.02"
+                                },
+                                {
+                                  "name": "winter_squash.n.02"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "solanaceous_vegetable.n.01",
+                              "children": [
+                                {
+                                  "name": "pepper.n.04",
+                                  "children": [
+                                    {
+                                      "name": "sweet_pepper.n.02"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "substance.n.01",
+              "children": [
+                {
+                  "name": "material.n.01",
+                  "children": [
+                    {
+                      "name": "paper.n.01",
+                      "children": [
+                        {
+                          "name": "tissue.n.02"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "causal_agent.n.01",
+          "children": [
+            {
+              "name": "person.n.01",
+              "children": [
+                {
+                  "name": "contestant.n.01",
+                  "children": [
+                    {
+                      "name": "athlete.n.01"
+                    }
+                  ]
+                },
+                {
+                  "name": "peer.n.01",
+                  "children": [
+                    {
+                      "name": "associate.n.01",
+                      "children": [
+                        {
+                          "name": "participant.n.01"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "explorer.n.01",
+                  "children": [
+                    {
+                      "name": "diver.n.01"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "abstraction.n.06",
+      "children": [
+        {
+          "name": "communication.n.02",
+          "children": [
+            {
+              "name": "sign.n.02"
+            },
+            {
+              "name": "signal.n.01",
+              "children": [
+                {
+                  "name": "visual_signal.n.01",
+                  "children": [
+                    {
+                      "name": "light.n.14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attribute.n.02",
+          "children": [
+            {
+              "name": "shape.n.02",
+              "children": [
+                {
+                  "name": "round_shape.n.01",
+                  "children": [
+                    {
+                      "name": "sphere.n.05",
+                      "children": [
+                        {
+                          "name": "ball.n.03",
+                          "children": [
+                            {
+                              "name": "globule.n.01"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

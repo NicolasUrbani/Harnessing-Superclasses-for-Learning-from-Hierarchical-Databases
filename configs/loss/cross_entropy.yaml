@@ -1,0 +1,7 @@
+description: "*cross-entropy* classique"
+
+target:
+  _target_: torch.nn.CrossEntropyLoss
+
+hyperparameters:
+  loss: cross-entropy

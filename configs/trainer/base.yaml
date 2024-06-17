@@ -1,0 +1,10 @@
+target:
+  max_epochs: ${..max_epochs}
+
+max_epochs: 30
+
+hyperparameters:
+  epochs: ${..max_epochs}
+
+description: |
+  Pas de description

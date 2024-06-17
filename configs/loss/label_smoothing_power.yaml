@@ -1,0 +1,18 @@
+target:
+  _target_: src.loss.get_label_smoothing_loss
+  hierarchy: ${dataset.datasets.hierarchy}
+  smoothing_value: ${..smoothing_value}
+
+
+
+description: Label smoothing loss (ours) with power decay
+
+smoothing_value: 0.1
+weighting_method: power
+decay: 1
+
+hyperparameters:
+  loss: label_smoothing[${..smoothing_value}][${..weighting_method},${..decay}]
+  smoothing_value: ${..smoothing_value}
+  weighting_method: ${..weighting_method}
+  decay: ${..decay}

@@ -1,0 +1,16 @@
+target:
+  _target_: src.loss.get_label_smoothing_loss
+  hierarchy: ${dataset.datasets.hierarchy}
+  smoothing_value: ${..smoothing_value}
+
+
+
+description: Label smoothing loss (ours)
+
+smoothing_value: 0.1
+weighting_method: balanced
+
+hyperparameters:
+  loss: label_smoothing[${..smoothing_value}][${..weighting_method}]
+  smoothing_value: ${..smoothing_value}
+  weighting_method: ${..weighting_method}

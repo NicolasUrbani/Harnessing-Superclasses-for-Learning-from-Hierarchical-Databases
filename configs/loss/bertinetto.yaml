@@ -1,0 +1,13 @@
+target:
+  _target_: src.loss.get_bertinetto_loss
+  hierarchy: ${dataset.datasets.hierarchy}
+  total_weight: ${..total_weight}
+  alpha: ${..alpha}
+
+total_weight: 1
+alpha: 0.1
+
+description: bertinetto, poids total ${.total_weight}, alpha = ${.alpha}
+
+hyperparameters:
+  loss: bertinetto[${..alpha}]

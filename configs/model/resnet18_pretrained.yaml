@@ -1,0 +1,12 @@
+defaults:
+  - base
+
+target:
+  _target_: src.models.resnet18.pretrained_model
+  out_features: "${dataset.datasets.n_classes}"
+
+out_features: ${dataset.datasets.n_classes}
+
+description: Resnet18 pré-entrainé avec ${.target.out_features} classes en sortie
+hyperparameters:
+  model: resnet18_pretrained

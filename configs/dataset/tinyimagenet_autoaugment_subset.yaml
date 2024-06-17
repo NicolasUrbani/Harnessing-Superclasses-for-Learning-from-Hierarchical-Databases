@@ -1,0 +1,29 @@
+defaults:
+  - tinyimagenet_subset
+  - _self_
+  - optional blah@_here_: ../tinyimagenet_augment_${machine_name:} # Per-machine override of configuration below
+
+
+
+datasets:
+  name: TinyImagenet_autoaugment_subset_r${.reduction_factor}_s${.seed}
+  reduction_factor: 32
+  seed: 42
+  hyperparameters:
+    dataset: ${..name}
+
+transforms:
+  train:
+    _target_: torchvision.transforms.v2.Compose
+    _args_:
+      - - _target_: torchvision.transforms.v2.ToImage
+        - ${attr:"src.datamodules.tinyimagenet.ToRGB"} # Some images are grayscale
+        - _target_: torchvision.transforms.AutoAugment
+          policy: ${attr:"torchvision.transforms.AutoAugmentPolicy.IMAGENET"}-
+        - _target_: torchvision.transforms.v2.ToDtype
+          _args_:
+            - ${attr:"torch.float32"}
+          scale: True
+        - _target_: torchvision.transforms.v2.Normalize
+          mean: [0.48023462867919975, 0.44807240576811214, 0.3975059588114215]
+          std: [0.27643921134213034, 0.2688699788209063, 0.2815982659992735]

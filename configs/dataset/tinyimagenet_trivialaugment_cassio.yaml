@@ -1,0 +1,24 @@
+transforms:
+  train:
+    _target_: torchvision.transforms.Compose
+    _args_:
+      - - _target_: torchvision.transforms.Resize
+          _args_: [64]
+        - _target_: torchvision.transforms.TrivialAugmentWide
+        - _target_: torchvision.transforms.ToTensor
+        - ${attr:"src.datamodules.utils.ToRGB"} # Some images are grayscale
+        - _target_: torchvision.transforms.Normalize
+          _args_:
+            - [0.48023462867919975, 0.44807240576811214, 0.3975059588114215]
+            - [0.27643921134213034, 0.2688699788209063, 0.2815982659992735]
+  valid:
+    _target_: torchvision.transforms.Compose
+    _args_:
+      - - _target_: torchvision.transforms.Resize
+          _args_: [64]
+        - _target_: torchvision.transforms.ToTensor
+        - ${attr:"src.datamodules.utils.ToRGB"} # Some images are grayscale
+        - _target_: torchvision.transforms.Normalize
+          _args_:
+            - [0.48023462867919975, 0.44807240576811214, 0.3975059588114215]
+            - [0.27643921134213034, 0.2688699788209063, 0.2815982659992735]

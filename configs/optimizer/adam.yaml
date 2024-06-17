@@ -1,0 +1,10 @@
+target:
+  _target_: torch.optim.Adam
+  lr: ${..lr}
+
+description: Adam avec un *learning rate* de ${.lr}
+lr: 5e-3
+
+hyperparameters:
+  optim: adam
+  lr: ${..lr}

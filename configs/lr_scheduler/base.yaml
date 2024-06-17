@@ -1,0 +1,3 @@
+# Base configuration for all learning rate scheduler configuration.
+
+description: Le *learning rate scheduler* utilisé est ${.name}.

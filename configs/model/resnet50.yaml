@@ -1,0 +1,12 @@
+defaults:
+  - base
+
+target:
+  _target_: src.models.resnet50_OOD.model
+  out_features: ${..out_features}
+
+out_features: ${dataset.datasets.n_classes}
+
+description: Resnet50 avec ${.out_features} classes en sortie
+hyperparameters:
+  model: resnet50

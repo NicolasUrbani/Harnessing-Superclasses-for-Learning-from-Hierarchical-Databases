@@ -1,0 +1,12 @@
+defaults:
+  - base
+
+target:
+  _target_: lightning.Trainer
+  accelerator: gpu
+  devices: ${gpus_index:${..ngpus}}
+  strategy: ddp
+
+ngpus: 2
+
+description: Entrainé avec ${.ngpus} gpus sur cassio pendant ${.max_epochs} époques.

@@ -1,0 +1,19 @@
+defaults:
+  - hierarchical
+
+target:
+  _target_: src.loss.get_hierarchical_loss
+  hierarchy: ${dataset.datasets.hierarchy}
+  method: ${..method}
+  total_weight: ${..total_weight}
+  decay: ${..decay}
+
+method: power
+decay: 0.5
+
+description: hiérarchique avec la méthode `power`, decay ${.decay}, poids total ${.total_weight}
+
+hyperparameters:
+  loss: hie_loss[${..method},${..decay}]
+  loss_method: power
+  loss_decay: ${..decay}

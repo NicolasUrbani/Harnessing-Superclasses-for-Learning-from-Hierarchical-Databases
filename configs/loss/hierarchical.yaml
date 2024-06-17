@@ -1,0 +1,14 @@
+target:
+  _target_: src.loss.get_hierarchical_loss
+  hierarchy: ${dataset.datasets.hierarchy}
+  method: ${..method}
+  total_weight: ${..total_weight}
+
+method: balanced
+total_weight: 1
+
+description: hiérarchique avec la méthode ${.method}, poids total ${.total_weight}
+
+hyperparameters:
+  loss: hie_loss[${..method}]
+  loss_method: balanced

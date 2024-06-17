@@ -1,0 +1,11 @@
+defaults:
+  - _self_
+  - optional blah@_here_: ../default_${oc.env:USER}@${machine_name:} # Per-machine override of configuration
+
+project_root: ${project_root:}
+data_dir: ~/.cache/
+hierarchy_dir: data/hierarchy
+kaggle_config_dir: data
+artifact_location: ???
+inaturalist_dir: ???
+imagenet64_dir: ???

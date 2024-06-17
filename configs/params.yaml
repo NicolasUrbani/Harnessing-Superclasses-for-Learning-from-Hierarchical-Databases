@@ -1,0 +1,38 @@
+hierarchical_regularization:
+  description: Régularisation hiérarchique, paramètre ${.param}
+  param: null
+  target:
+    _target_: src.loss.HierarchicalRegularization
+    hierarchy: ${dataset.datasets.hierarchy}
+  hyperparameters:
+    hr_param: ${..param}
+
+hierarchical_regularization_gamma:
+  description: Régularisation hiérarchique gamma, paramètre ${.param}
+  param: null
+  target:
+    _target_: src.loss.HierarchicalRegularizationGamma
+  hyperparameters:
+    hrg_param: ${..param}
+
+weight_decay:
+  description: "*Weight decay* utilisé, paramètre ${.param}"
+  param: null
+  hyperparameters:
+    wd_param: ${..param}
+
+starting_point_regularization:
+  description: "Régularisation *starting point* utilisée, paramètre ${.param}"
+  param: null
+  hyperparameters:
+    sp_param: ${..param}
+
+hierarchy: ${dataset.datasets.hierarchy}
+
+params_description: |
+
+  ${unless_null:${.hierarchical_regularization.param},- ${.hierarchical_regularization.description}}
+
+  ${unless_null:${.weight_decay.param},- ${.weight_decay.description}}
+
+  ${unless_null:${.starting_point_regularization.param},- ${.starting_point_regularization.description}}

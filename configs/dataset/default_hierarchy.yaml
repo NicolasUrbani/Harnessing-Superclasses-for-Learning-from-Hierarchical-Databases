@@ -1,0 +1,7 @@
+datasets:
+  hierarchy:
+    _target_: src.tree.load_tree_from_file
+    _args_:
+      - ${paths.hierarchy_dir}/${...hierarchy_filename}
+  hierarchy_filename: ???
+  synset_filename: ???

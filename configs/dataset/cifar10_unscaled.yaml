@@ -1,0 +1,21 @@
+defaults:
+  - cifar10
+
+transforms:
+  train:
+    _target_: torchvision.transforms.v2.Compose
+    _args_:
+      - - _target_: torchvision.transforms.v2.PILToTensor
+        - _target_: torchvision.transforms.v2.ToDtype
+          _args_:
+            - ${attr:"torch.float32"}
+          scale: True
+
+  valid:
+    _target_: torchvision.transforms.v2.Compose
+    _args_:
+      - - _target_: torchvision.transforms.v2.PILToTensor
+        - _target_: torchvision.transforms.v2.ToDtype
+          _args_:
+            - ${attr:"torch.float32"}
+          scale: True

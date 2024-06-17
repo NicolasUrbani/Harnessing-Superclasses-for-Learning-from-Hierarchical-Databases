@@ -1,0 +1,17 @@
+defaults:
+  - base
+
+name: "*step learning rate* toutes les ${.step_size} époques avec un ratio de ${.gamma}"
+
+step_size: 10
+gamma: 0.1
+
+target:
+  _target_: torch.optim.lr_scheduler.StepLR
+  step_size: ${..step_size}
+  gamma: ${..gamma}
+
+hyperparameters:
+  lr_sched: steplr
+  step_size: ${..step_size}
+  gamma: ${..gamma}

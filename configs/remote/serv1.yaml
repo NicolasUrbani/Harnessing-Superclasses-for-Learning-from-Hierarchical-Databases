@@ -1,0 +1,3 @@
+defaults:
+  - _self_
+  - optional blah@_here_: ../serv1_${oc.env:USER}@${machine_name:} # Per-machine override of configuration

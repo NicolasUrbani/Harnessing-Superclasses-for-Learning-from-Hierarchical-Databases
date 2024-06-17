@@ -1,0 +1,34 @@
+_target_: src.datamodules.tinyimagenet.TinyImagenetDataModule
+
+defaults:
+  - default
+  - default_hierarchy
+  - default_huggingface
+
+datasets:
+  name: TinyImagenet
+  path: zh-plus/tiny-imagenet
+  n_classes: 200
+  hierarchy_filename: tinyimagenet_hierarchy.json
+  synset_filename: tinyimagenet_synset.txt
+
+transforms:
+  train:
+    _target_: torchvision.transforms.v2.Compose
+    _args_:
+      - - _target_: torchvision.transforms.v2.ToImage
+        - ${attr:"src.datamodules.utils.ToRGB"} # Some images are grayscale
+        - _target_: torchvision.transforms.v2.ToDtype
+          _args_:
+            - ${attr:"torch.float32"}
+          scale: True
+
+  valid:
+    _target_: torchvision.transforms.v2.Compose
+    _args_:
+      - - _target_: torchvision.transforms.v2.ToImage
+        - ${attr:"src.datamodules.utils.ToRGB"}
+        - _target_: torchvision.transforms.v2.ToDtype
+          _args_:
+            - ${attr:"torch.float32"}
+          scale: True

@@ -1,0 +1,5 @@
+# @package _global_
+
+logger:
+  tracking_uri: "http://127.0.0.1:5053"
+  artifact_location: "mlruns/"

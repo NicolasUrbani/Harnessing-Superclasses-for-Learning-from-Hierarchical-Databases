@@ -1,0 +1,12 @@
+defaults:
+  - base
+
+target:
+  _target_: src.models.resnet18.model
+  out_features: ${..out_features}
+
+out_features: ${dataset.datasets.n_classes}
+
+description: Resnet18 avec ${.out_features} classes en sortie
+hyperparameters:
+  model: resnet18

@@ -1,0 +1,14 @@
+defaults:
+  - base
+
+name: "*cosine annealing* avec \\(T_max=${.T_max}\\)"
+
+T_max: 10
+
+target:
+  _target_: torch.optim.lr_scheduler.CosineAnnealingLR
+  T_max: ${..T_max}
+
+hyperparameters:
+  lr_sched: cosine
+  lr_sched_T_max: ${..T_max}

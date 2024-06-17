@@ -1,0 +1,15 @@
+target:
+  _target_: src.loss.CrossEntropyThenHierarchicalLoss
+  hierarchy: ${dataset.datasets.hierarchy}
+  method: ${..method}
+  total_weight: ${..total_weight}
+  epoch_for_switch: ${..epoch_for_switch}
+
+method: balanced
+total_weight: 1
+epoch_for_switch: 30
+
+description: cross_entropy for ${.epoch_for_switch} puis hiérarchique avec la méthode ${.method}, poids total ${.total_weight}
+
+hyperparameters:
+  loss: ce_hier[${..method}]

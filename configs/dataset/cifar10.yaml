@@ -1,0 +1,35 @@
+_target_: src.datamodules.cifar10.Cifar10DataModule
+
+defaults:
+  - default
+
+datasets:
+  n_classes: 10
+  name: "Cifar-10"
+
+transforms:
+  train:
+    _target_: torchvision.transforms.Compose
+    _args_:
+      - - _target_: torchvision.transforms.Resize
+          _args_:
+            - - 32
+              - 32
+        - _target_: torchvision.transforms.ToTensor
+        - _target_: torchvision.transforms.Normalize
+          _args_:
+            - [0.49140127461690164, 0.48214230514489664, 0.44653629370224784]
+            - [0.24704542036144295, 0.24349658464983542, 0.26157979553027627]
+
+  valid:
+    _target_: torchvision.transforms.Compose
+    _args_:
+      - - _target_: torchvision.transforms.Resize
+          _args_:
+            - - 32
+              - 32
+        - _target_: torchvision.transforms.ToTensor
+        - _target_: torchvision.transforms.Normalize
+          _args_:
+            - [0.49140127461690164, 0.48214230514489664, 0.44653629370224784]
+            - [0.24704542036144295, 0.24349658464983542, 0.26157979553027627]
